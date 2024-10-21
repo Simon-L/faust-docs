@@ -1,0 +1,13 @@
+<map id="netjackaudio_control" name="netjackaudio_control">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,225,195,251"/>
+<area shape="rect" id="Node000002" href="$classnetjackaudio.html" title=" " alt="" coords="5,152,111,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,186,109,224,105,227,74,190"/>
+<area shape="rect" id="Node000003" href="$classaudio.html" title=" " alt="" coords="29,79,87,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="61,118,61,152,55,152,55,118"/>
+<area shape="rect" id="Node000004" href="$classControlUI.html" title=" " alt="" coords="134,152,217,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,190,128,227,124,224,155,186"/>
+<area shape="rect" id="Node000005" href="$structUI.html" title=" " alt="" coords="156,79,195,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,118,178,152,173,152,173,118"/>
+<area shape="rect" id="Node000006" href="$structUIReal.html" title=" " alt="" coords="87,5,264,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="178,44,178,79,173,79,173,44"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="tests.test_tree_builder.Object" name="tests.test_tree_builder.Object">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,176,167"/>
+<area shape="rect" id="Node000002" href="$classtests_1_1test__tree__builder_1_1Box.html" title=" " alt="" coords="224,77,420,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,121,269,99,271,105,186,126"/>
+<area shape="rect" id="Node000006" href="$classtests_1_1test__tree__builder_1_1Patcher.html" title=" " alt="" coords="237,127,407,167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="190,144,237,144,237,149,190,149"/>
+<area shape="rect" id="Node000007" href="$classtests_1_1test__tree__builder_1_1Patchline.html" title=" " alt="" coords="237,191,407,231"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="177,168,250,188,248,193,176,173"/>
+<area shape="rect" id="Node000003" href="$classtests_1_1test__tree__builder_1_1EzDac.html" title=" " alt="" coords="468,5,639,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,70,480,43,481,48,383,75"/>
+<area shape="rect" id="Node000004" href="$classtests_1_1test__tree__builder_1_1Multislider.html" title=" " alt="" coords="468,69,639,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="434,87,468,87,468,92,434,92"/>
+<area shape="rect" id="Node000005" href="$classtests_1_1test__tree__builder_1_1PlayList.html" title=" " alt="" coords="468,133,639,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="387,103,421,112,486,131,484,136,419,117,385,108"/>
+</map>

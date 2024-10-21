@@ -1,0 +1,9 @@
+<map id="parselib::WavChunkHeader" name="parselib::WavChunkHeader">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,5,341,31"/>
+<area shape="rect" id="Node000002" href="$classparselib_1_1WavFmtChunkHeader.html" title=" " alt="" coords="5,79,229,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,39,132,81,129,76,201,35"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="218,40,146,81,143,76,215,36"/>
+<area shape="rect" id="Node000003" href="$classparselib_1_1WavRIFFChunkHeader.html" title=" " alt="" coords="253,79,480,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="267,35,341,76,338,81,265,40"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="282,35,354,76,352,81,279,39"/>
+</map>

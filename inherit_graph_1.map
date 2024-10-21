@@ -1,0 +1,61 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$protocolFIFlipsideViewControllerDelegate-p.html" title=" " alt="" coords="181,425,373,465"/>
+<area shape="rect" id="Node000001" href="$interfaceFIMainViewController.html" title=" " alt="" coords="455,404,617,429"/>
+<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="387,430,454,423,455,428,388,435"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="5,539,109,564"/>
+<area shape="rect" id="Node000002" href="$protocolFIResponderDelegate-p.html" title=" " alt="" coords="185,325,369,351"/>
+<area shape="poly" id="edge5_Node000015_Node000002" title=" " alt="" coords="62,524,74,487,92,442,119,397,156,360,184,345,186,350,159,364,123,401,97,444,79,488,67,526"/>
+<area shape="rect" id="Node000016" href="$protocolFaustAU__ButtonProtocol-p.html" title=" " alt="" coords="177,539,377,564"/>
+<area shape="poly" id="edge8_Node000015_Node000016" title=" " alt="" coords="123,549,177,549,177,554,123,554"/>
+<area shape="rect" id="Node000018" href="$protocolFaustAU__KnobProtocol-p.html" title=" " alt="" coords="182,588,373,613"/>
+<area shape="poly" id="edge10_Node000015_Node000018" title=" " alt="" coords="124,565,158,573,216,585,214,591,157,578,122,570"/>
+<area shape="poly" id="edge6_Node000002_Node000001" title=" " alt="" coords="366,351,398,359,457,380,508,401,506,406,455,385,397,365,365,356"/>
+<area shape="rect" id="Node000003" href="$interfaceFITabView.html" title=" " alt="" coords="492,325,580,351"/>
+<area shape="poly" id="edge7_Node000002_Node000003" title=" " alt="" coords="383,335,492,335,492,341,383,341"/>
+<area shape="rect" id="Node000017" href="$interfaceFaustAU__CustomView.html" title=" " alt="" coords="454,563,618,588"/>
+<area shape="poly" id="edge9_Node000016_Node000017" title=" " alt="" coords="392,559,454,565,454,570,391,565"/>
+<area shape="poly" id="edge11_Node000018_Node000017" title=" " alt="" coords="386,587,453,581,454,586,387,593"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="241,637,313,663"/>
+<area shape="poly" id="edge13_Node000019_Node000017" title=" " alt="" coords="327,640,396,622,420,610,444,597,479,585,481,591,446,602,423,615,398,627,328,645"/>
+<area shape="rect" id="Node000020" href="$interfaceFaustAU__ControlPoint.html" title=" " alt="" coords="455,612,617,637"/>
+<area shape="poly" id="edge12_Node000019_Node000020" title=" " alt="" coords="327,643,454,630,455,635,327,648"/>
+<area shape="rect" id="Node000021" href="$interfaceFaustAU__FlatKnob.html" title=" " alt="" coords="466,661,606,687"/>
+<area shape="poly" id="edge14_Node000019_Node000021" title=" " alt="" coords="328,652,466,665,466,670,327,657"/>
+<area shape="rect" id="Node000022" href="$interfaceFaustAU__Knob.html" title=" " alt="" coords="675,661,789,687"/>
+<area shape="poly" id="edge15_Node000021_Node000022" title=" " alt="" coords="620,671,674,671,674,677,620,677"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="187,760,367,785"/>
+<area shape="rect" id="Node000026" href="$interfaceFIFlipsideViewController.html" title=" " alt="" coords="445,760,627,785"/>
+<area shape="poly" id="edge16_Node000027_Node000026" title=" " alt="" coords="381,770,445,770,445,775,381,775"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="16,177,99,203"/>
+<area shape="rect" id="Node000004" href="$interfaceFIResponder.html" title=" " alt="" coords="226,128,329,153"/>
+<area shape="poly" id="edge17_Node000013_Node000004" title=" " alt="" coords="111,173,157,162,225,148,226,153,158,167,113,178"/>
+<area shape="rect" id="Node000014" href="$interfaceMultiKeyboard.html" title=" " alt="" coords="219,227,335,252"/>
+<area shape="poly" id="edge25_Node000013_Node000014" title=" " alt="" coords="113,201,158,211,220,225,219,230,157,217,111,206"/>
+<area shape="poly" id="edge23_Node000004_Node000003" title=" " alt="" coords="343,139,372,147,399,163,413,178,421,193,426,224,430,255,436,271,447,287,472,308,500,323,498,328,469,312,443,290,432,273,425,257,421,225,416,195,409,181,396,167,370,152,342,145"/>
+<area shape="rect" id="Node000005" href="$interfaceFIBargraph.html" title=" " alt="" coords="489,104,583,129"/>
+<area shape="poly" id="edge18_Node000004_Node000005" title=" " alt="" coords="343,132,489,118,489,124,343,137"/>
+<area shape="rect" id="Node000006" href="$interfaceFIBox.html" title=" " alt="" coords="507,153,565,179"/>
+<area shape="poly" id="edge19_Node000004_Node000006" title=" " alt="" coords="343,144,507,161,506,166,343,150"/>
+<area shape="rect" id="Node000007" href="$interfaceFIButton.html" title=" " alt="" coords="497,203,575,228"/>
+<area shape="poly" id="edge20_Node000004_Node000007" title=" " alt="" coords="343,148,398,162,423,175,446,188,498,204,496,209,444,192,420,179,396,167,342,153"/>
+<area shape="rect" id="Node000008" href="$interfaceFIKnob.html" title=" " alt="" coords="503,5,569,31"/>
+<area shape="poly" id="edge21_Node000004_Node000008" title=" " alt="" coords="307,118,368,78,444,40,502,22,503,27,446,44,371,83,309,122"/>
+<area shape="rect" id="Node000009" href="$interfaceFISlider.html" title=" " alt="" coords="501,55,571,80"/>
+<area shape="poly" id="edge22_Node000004_Node000009" title=" " alt="" coords="333,121,445,89,500,74,501,79,446,94,334,127"/>
+<area shape="rect" id="Node000010" href="$interfaceFITextField.html" title=" " alt="" coords="490,252,582,277"/>
+<area shape="poly" id="edge24_Node000004_Node000010" title=" " alt="" coords="343,142,372,149,399,163,416,181,424,201,431,220,447,237,468,249,490,256,489,261,466,254,444,241,427,222,419,203,412,184,396,167,370,154,342,147"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="157,276,397,301"/>
+<area shape="poly" id="edge26_Node000011_Node000001" title=" " alt="" coords="385,304,399,310,415,322,425,334,434,347,447,360,512,402,509,406,444,364,429,350,420,337,411,326,396,315,382,309"/>
+<area shape="poly" id="edge27_Node000011_Node000010" title=" " alt="" coords="411,274,489,266,490,272,411,279"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="160,489,395,515"/>
+<area shape="poly" id="edge28_Node000023_Node000001" title=" " alt="" coords="362,484,396,474,457,451,508,427,511,432,459,456,398,479,363,489"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="185,375,370,400"/>
+<area shape="poly" id="edge29_Node000024_Node000001" title=" " alt="" coords="384,397,455,405,454,410,383,402"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="189,177,365,203"/>
+<area shape="poly" id="edge30_Node000012_Node000010" title=" " alt="" coords="372,203,398,212,423,224,446,237,491,251,489,257,444,242,420,229,396,216,370,209"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="211,711,343,736"/>
+<area shape="poly" id="edge32_Node000025_Node000001" title=" " alt="" coords="345,704,372,690,395,672,416,643,424,615,430,585,443,549,485,480,522,428,527,431,490,482,448,551,435,586,429,616,421,645,399,676,375,695,348,708"/>
+<area shape="poly" id="edge31_Node000025_Node000026" title=" " alt="" coords="358,736,469,757,468,763,357,741"/>
+<area shape="rect" id="Node000028" href="$interfaceViewController.html" title=" " alt="" coords="477,711,595,736"/>
+<area shape="poly" id="edge33_Node000025_Node000028" title=" " alt="" coords="358,721,477,721,477,726,358,726"/>
+</map>

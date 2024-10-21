@@ -1,0 +1,32 @@
+<map id="netjackaudio_midicontrol" name="netjackaudio_midicontrol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="166,304,353,329"/>
+<area shape="rect" id="Node000002" href="$classnetjackaudio.html" title=" " alt="" coords="83,229,188,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,259,241,301,238,306,166,264"/>
+<area shape="rect" id="Node000003" href="$classaudio.html" title=" " alt="" coords="30,139,89,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,173,127,227,123,231,76,177"/>
+<area shape="rect" id="Node000004" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="113,139,158,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="138,178,138,229,133,229,133,178"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="173,142,181,145,185,152,176,162,159,163,158,157,174,157,179,152,177,149,171,147"/>
+<area shape="rect" id="Node000005" href="$classControlUI.html" title=" " alt="" coords="218,229,301,255"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="262,269,262,304,257,304,257,269"/>
+<area shape="rect" id="Node000006" href="$structUI.html" title=" " alt="" coords="240,139,279,165"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="262,178,262,229,257,229,257,178"/>
+<area shape="rect" id="Node000007" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="121,37,247,137,243,141,118,42"/>
+<area shape="rect" id="Node000008" href="$classUiControlSet.html" title=" " alt="" coords="207,5,311,31"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="262,45,262,139,257,139,257,45"/>
+<area shape="rect" id="Node000009" href="$classjack__midi.html" title=" " alt="" coords="426,229,511,255"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="424,262,293,306,291,301,422,257"/>
+<area shape="rect" id="Node000010" href="$classmidi__handler.html" title=" " alt="" coords="415,139,522,165"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="471,178,471,229,466,229,466,178"/>
+<area shape="rect" id="Node000011" href="$classmidi.html" title=" " alt="" coords="335,5,386,31"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="381,40,461,138,457,141,377,43"/>
+<area shape="rect" id="Node000012" href="$structmidi__interface.html" title=" " alt="" coords="411,5,527,31"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="471,45,471,139,466,139,466,45"/>
+<area shape="rect" id="Node000013" href="$classMidiNRPN.html" title=" " alt="" coords="551,5,637,31"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="576,43,482,141,478,137,572,39"/>
+<area shape="rect" id="Node000014" href="$structringbuffer__t.html" title=" " alt="" coords="599,139,696,165"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="613,173,493,232,491,227,611,168"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="661,5,721,31"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="686,45,654,140,649,138,681,43"/>
+</map>

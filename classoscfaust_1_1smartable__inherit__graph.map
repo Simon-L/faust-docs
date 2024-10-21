@@ -1,0 +1,20 @@
+<map id="oscfaust::smartable" name="oscfaust::smartable">
+<area shape="rect" id="Node000001" title="the base class for smart pointers implementation" alt="" coords="325,5,475,31"/>
+<area shape="rect" id="Node000002" href="$classoscfaust_1_1MessageDriven.html" title="a base class for objects accepting OSC messages" alt="" coords="107,79,293,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,37,227,81,225,76,347,32"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="363,38,240,81,238,76,361,33"/>
+<area shape="rect" id="Node000005" href="$classoscfaust_1_1OSCListener.html" title="an OSC listener that converts OSC input to Messages" alt="" coords="318,79,482,104"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="403,44,403,79,397,79,397,44"/>
+<area shape="rect" id="Node000006" href="$classoscfaust_1_1baseparam.html" title="base class of a message parameters" alt="" coords="506,79,665,104"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="436,33,549,76,547,81,434,38"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="450,33,563,76,561,81,448,38"/>
+<area shape="rect" id="Node000003" href="$classoscfaust_1_1FaustNode.html" title="a faust node is a terminal node and represents a faust parameter controler" alt="" coords="5,152,197,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,114,112,154,109,150,164,109"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="182,115,126,154,123,150,179,110"/>
+<area shape="rect" id="Node000004" href="$classoscfaust_1_1RootNode.html" title="a faust root node" alt="" coords="221,152,371,177"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="221,111,275,150,272,154,218,115"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="235,109,289,150,286,154,232,114"/>
+<area shape="rect" id="Node000007" href="$classoscfaust_1_1MsgParam.html" title="template for a message parameter" alt="" coords="490,152,681,177"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="579,118,581,152,576,152,574,118"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="597,118,595,152,590,152,591,118"/>
+</map>

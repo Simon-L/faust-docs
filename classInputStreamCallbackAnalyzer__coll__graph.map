@@ -1,0 +1,19 @@
+<map id="InputStreamCallbackAnalyzer" name="InputStreamCallbackAnalyzer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,243,447,268"/>
+<area shape="rect" id="Node000002" href="$classOboeTesterStreamCallback.html" title=" " alt="" coords="151,155,349,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,189,323,240,319,244,263,193"/>
+<area shape="poly" id="edge8_Node000001_Node000002" title=" " alt="" coords="281,187,335,240,331,244,277,191"/>
+<area shape="rect" id="Node000003" href="$classoboe_1_1AudioStreamCallback.html" title=" " alt="" coords="149,80,351,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,119,246,154,240,154,239,119"/>
+<area shape="poly" id="edge7_Node000002_Node000003" title=" " alt="" coords="261,119,260,154,254,154,256,119"/>
+<area shape="rect" id="Node000004" href="$classoboe_1_1AudioStreamDataCallback.html" title=" " alt="" coords="5,5,239,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,36,224,77,221,82,146,40"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="163,35,238,77,235,82,160,39"/>
+<area shape="rect" id="Node000005" href="$classoboe_1_1AudioStreamErrorCallback.html" title=" " alt="" coords="263,5,496,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="341,39,265,82,263,77,338,35"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="355,40,279,82,276,77,352,36"/>
+<area shape="rect" id="Node000006" href="$classPeakDetector.html" title=" " alt="" coords="373,155,484,180"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="409,191,354,244,350,240,405,188"/>
+<area shape="rect" id="Node000007" href="$classMultiChannelRecording.html" title=" " alt="" coords="509,155,682,180"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="569,190,510,221,465,235,420,245,419,240,464,230,508,216,566,185"/>
+</map>

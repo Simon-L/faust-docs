@@ -1,0 +1,9 @@
+<map id="FixedBlockAdapter" name="FixedBlockAdapter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,5,226,31"/>
+<area shape="rect" id="Node000002" href="$classFixedBlockReader.html" title=" " alt="" coords="5,79,144,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,41,83,80,79,76,122,37"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="141,43,96,81,93,77,137,39"/>
+<area shape="rect" id="Node000003" href="$classFixedBlockWriter.html" title=" " alt="" coords="169,79,301,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="172,39,217,77,213,81,169,43"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="187,37,230,76,227,80,184,41"/>
+</map>

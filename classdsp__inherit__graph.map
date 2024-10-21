@@ -1,0 +1,98 @@
+<map id="dsp" name="dsp">
+<area shape="rect" id="Node000001" title="Opaque structure representing a DSP object." alt="" coords="5,860,51,885"/>
+<area shape="rect" id="Node000002" href="$classCdsp.html" title=" " alt="" coords="152,293,207,319"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="26,846,28,738,36,587,45,510,57,440,74,381,97,340,108,330,123,323,151,314,153,319,125,328,111,334,101,344,79,383,63,441,50,511,42,587,33,738,32,846"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="26,846,27,733,35,575,44,494,56,420,74,359,84,335,97,316,109,306,123,299,151,294,152,299,124,304,111,310,101,320,89,337,79,361,62,421,49,494,41,575,33,733,32,846"/>
+<area shape="rect" id="Node000003" href="$classFAUSTCLASS.html" title=" " alt="" coords="127,343,231,368"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="27,846,29,744,39,605,48,534,60,469,76,415,97,378,110,366,126,359,128,364,113,371,101,381,81,417,65,470,53,534,44,605,35,744,32,846"/>
+<area shape="rect" id="Node000004" href="$classcmajor__cpp__dsp.html" title=" " alt="" coords="116,392,243,417"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="27,846,31,753,42,628,51,565,63,508,78,460,97,427,114,414,117,418,101,430,83,462,68,509,56,566,47,629,37,754,33,846"/>
+<area shape="rect" id="Node000005" href="$classcmajorpatch__dsp.html" title=" " alt="" coords="113,441,246,467"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="28,846,33,762,45,652,65,547,79,505,97,476,111,465,114,469,101,480,84,507,71,548,50,653,39,763,33,846"/>
+<area shape="rect" id="Node000006" href="$classdecorator__dsp.html" title=" " alt="" coords="122,491,237,516"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="37,846,96,698,170,515,175,517,101,700,42,848"/>
+<area shape="rect" id="Node000025" href="$classdsp__binary__combiner.html" title="Base class and common code for binary combiners." alt="" coords="99,712,260,737"/>
+<area shape="poly" id="edge26_Node000001_Node000025" title=" " alt="" coords="35,846,57,796,75,769,97,747,117,735,119,740,100,751,79,773,62,798,40,848"/>
+<area shape="rect" id="Node000032" href="$structdsp__bus.html" title=" " alt="" coords="142,761,217,787"/>
+<area shape="poly" id="edge33_Node000001_Node000032" title=" " alt="" coords="44,847,67,820,97,796,119,785,141,778,143,783,121,790,100,800,71,824,48,850"/>
+<area shape="rect" id="Node000033" href="$structinterpreter__dsp.html" title=" " alt="" coords="119,811,240,836"/>
+<area shape="poly" id="edge34_Node000001_Node000033" title=" " alt="" coords="63,868,98,857,163,834,165,839,100,862,65,873"/>
+<area shape="poly" id="edge35_Node000001_Node000033" title=" " alt="" coords="52,851,98,833,118,826,119,832,100,838,53,856"/>
+<area shape="rect" id="Node000034" href="$structllvm__dsp.html" title=" " alt="" coords="139,860,220,885"/>
+<area shape="poly" id="edge36_Node000001_Node000034" title=" " alt="" coords="65,878,139,878,139,883,65,883"/>
+<area shape="poly" id="edge37_Node000001_Node000034" title=" " alt="" coords="65,862,139,862,139,867,65,868"/>
+<area shape="rect" id="Node000035" href="$classmydsp.html" title=" " alt="" coords="146,909,213,935"/>
+<area shape="poly" id="edge38_Node000001_Node000035" title=" " alt="" coords="44,893,70,907,100,918,136,929,167,932,166,937,135,934,98,923,68,912,42,898"/>
+<area shape="poly" id="edge41_Node000001_Node000035" title=" " alt="" coords="65,882,100,894,147,909,145,914,98,899,63,887"/>
+<area shape="poly" id="edge42_Node000001_Node000035" title=" " alt="" coords="54,857,99,870,143,886,162,896,175,907,172,911,159,900,141,891,98,875,52,862"/>
+<area shape="rect" id="Node000037" href="$classproxy__dsp.html" title=" " alt="" coords="135,959,224,984"/>
+<area shape="poly" id="edge43_Node000001_Node000037" title=" " alt="" coords="48,894,71,920,100,944,135,959,133,964,97,948,68,924,44,898"/>
+<area shape="rect" id="Node000039" href="$classrnbo__dsp.html" title=" " alt="" coords="139,1008,220,1033"/>
+<area shape="poly" id="edge45_Node000001_Node000039" title=" " alt="" coords="40,897,62,946,79,972,100,993,119,1004,139,1012,138,1017,117,1009,97,997,75,975,58,949,35,900"/>
+<area shape="rect" id="Node000040" href="$classsound__base__player.html" title=" " alt="" coords="106,1057,253,1083"/>
+<area shape="poly" id="edge46_Node000001_Node000040" title=" " alt="" coords="35,899,43,932,55,970,74,1009,100,1043,120,1055,117,1060,97,1047,69,1012,50,972,37,933,30,900"/>
+<area shape="rect" id="Node000043" href="$classwasm__dsp.html" title=" " alt="" coords="134,1107,225,1132"/>
+<area shape="poly" id="edge49_Node000001_Node000043" title=" " alt="" coords="33,899,37,942,47,994,68,1047,82,1072,100,1093,116,1104,135,1111,133,1116,114,1109,97,1097,78,1075,63,1050,42,995,31,943,27,900"/>
+<area shape="rect" id="Node000044" href="$classwasm__dsp__imp.html" title=" " alt="" coords="118,1156,241,1181"/>
+<area shape="poly" id="edge50_Node000001_Node000044" title=" " alt="" coords="35,899,59,1031,78,1099,89,1125,101,1143,119,1156,116,1160,97,1147,84,1128,73,1101,54,1032,30,900"/>
+<area shape="rect" id="Node000045" href="$classysfx__dsp.html" title=" " alt="" coords="108,1205,251,1231"/>
+<area shape="poly" id="edge51_Node000001_Node000045" title=" " alt="" coords="34,899,42,967,55,1055,75,1138,87,1170,101,1192,115,1203,112,1207,97,1196,82,1173,70,1140,50,1056,37,968,29,899"/>
+<area shape="rect" id="Node000007" href="$classmeasure__dsp__real.html" title=" " alt="" coords="308,5,561,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="247,486,258,476,277,449,290,421,296,394,298,366,292,312,278,258,265,204,259,149,262,122,271,95,285,67,306,40,320,29,323,33,310,44,289,70,275,97,268,123,265,149,270,203,283,256,297,311,304,366,302,394,295,423,282,451,262,480,251,490"/>
+<area shape="rect" id="Node000009" href="$classdsp__adapter.html" title=" " alt="" coords="383,55,486,80"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="247,486,258,476,275,452,286,427,293,403,295,379,290,331,278,283,267,234,263,186,266,162,274,138,287,114,306,89,323,76,342,68,382,61,383,67,343,73,325,81,310,93,291,117,279,140,272,163,269,186,273,234,284,281,295,330,300,379,298,404,291,429,280,454,262,480,250,490"/>
+<area shape="rect" id="Node000010" href="$classdsp__compute__inpl.html" title=" " alt="" coords="365,104,505,129"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="247,486,258,476,273,455,283,434,291,392,288,350,279,308,270,265,268,223,277,181,289,160,306,139,333,121,364,113,365,118,335,126,310,143,294,163,282,183,273,224,275,265,284,307,293,349,297,392,288,436,278,458,262,480,250,490"/>
+<area shape="rect" id="Node000011" href="$classdsp__compute__inpl__mix.html" title=" " alt="" coords="349,153,521,179"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="247,485,258,476,280,440,288,404,286,369,279,333,273,296,272,260,281,224,306,188,325,174,347,166,349,171,328,179,310,192,286,226,277,261,278,296,284,332,291,368,293,405,285,442,262,480,251,490"/>
+<area shape="rect" id="Node000012" href="$classdsp__compute__mix.html" title=" " alt="" coords="364,203,505,228"/>
+<area shape="poly" id="edge12_Node000006_Node000012" title=" " alt="" coords="247,485,258,476,277,447,284,417,284,387,280,357,275,327,276,297,284,267,306,237,333,220,363,212,364,217,335,225,310,241,289,269,281,298,281,327,285,357,289,387,290,418,282,449,262,480,251,489"/>
+<area shape="rect" id="Node000013" href="$classdsp__me__checker.html" title=" " alt="" coords="369,252,500,277"/>
+<area shape="poly" id="edge13_Node000006_Node000013" title=" " alt="" coords="247,485,258,476,274,453,281,430,282,406,280,382,278,358,280,334,288,310,306,287,335,269,368,261,370,266,337,274,310,291,293,313,285,335,283,358,285,382,287,406,286,431,279,455,262,480,251,489"/>
+<area shape="rect" id="Node000014" href="$classdsp__poly.html" title=" " alt="" coords="395,301,475,327"/>
+<area shape="poly" id="edge14_Node000006_Node000014" title=" " alt="" coords="247,485,258,476,271,459,278,443,280,407,284,372,292,354,306,337,326,324,349,316,394,310,395,315,350,321,329,329,310,341,296,357,289,373,286,408,283,444,276,462,262,480,250,489"/>
+<area shape="rect" id="Node000017" href="$classdsp__sample__adapter.html" title=" " alt="" coords="341,351,528,391"/>
+<area shape="poly" id="edge17_Node000006_Node000017" title=" " alt="" coords="247,483,258,476,274,458,281,439,289,420,306,401,340,384,342,389,310,405,294,423,286,441,278,461,262,480,250,487"/>
+<area shape="rect" id="Node000018" href="$structdsp__voice.html" title=" " alt="" coords="391,416,478,441"/>
+<area shape="poly" id="edge18_Node000006_Node000018" title=" " alt="" coords="237,484,259,476,283,462,307,450,350,438,391,431,392,436,351,444,309,455,285,467,261,480,239,489"/>
+<area shape="rect" id="Node000019" href="$classmeasure__dsp__real.html" title=" " alt="" coords="333,465,537,491"/>
+<area shape="poly" id="edge19_Node000006_Node000019" title=" " alt="" coords="250,494,332,485,332,491,251,499"/>
+<area shape="rect" id="Node000020" href="$classmydspmulti.html" title=" " alt="" coords="385,515,485,540"/>
+<area shape="poly" id="edge20_Node000006_Node000020" title=" " alt="" coords="249,515,385,527,384,533,248,520"/>
+<area shape="poly" id="edge21_Node000006_Node000020" title=" " alt="" coords="250,499,385,513,384,518,250,504"/>
+<area shape="rect" id="Node000021" href="$classsr__sampler.html" title=" " alt="" coords="351,564,518,589"/>
+<area shape="poly" id="edge22_Node000006_Node000021" title=" " alt="" coords="224,519,309,549,361,561,359,566,307,554,222,524"/>
+<area shape="rect" id="Node000024" href="$classtimed__dsp.html" title=" " alt="" coords="389,613,480,639"/>
+<area shape="poly" id="edge25_Node000006_Node000024" title=" " alt="" coords="205,523,251,562,279,582,309,598,349,612,389,619,388,625,348,617,307,603,276,586,247,567,201,527"/>
+<area shape="rect" id="Node000008" href="$structmeasure__dsp.html" title=" " alt="" coords="665,5,774,31"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="575,15,665,15,665,21,575,21"/>
+<area shape="rect" id="Node000015" href="$classdsp__poly__effect.html" title=" " alt="" coords="657,277,781,303"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="488,307,657,293,657,298,489,312"/>
+<area shape="rect" id="Node000016" href="$classmydsp__poly.html" title=" " alt="" coords="669,327,770,352"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="489,316,668,332,668,338,489,321"/>
+<area shape="rect" id="Node000022" href="$classdsp__down__sampler.html" title=" " alt="" coords="609,540,829,565"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="532,566,609,559,609,565,532,571"/>
+<area shape="rect" id="Node000023" href="$classdsp__up__sampler.html" title=" " alt="" coords="619,589,820,615"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="532,583,619,590,618,596,532,588"/>
+<area shape="rect" id="Node000026" href="$classdsp__crossfader.html" title="Crossfade between two DSP modules." alt="" coords="375,663,495,688"/>
+<area shape="poly" id="edge27_Node000025_Node000026" title=" " alt="" coords="257,707,307,697,374,684,375,689,309,702,258,712"/>
+<area shape="rect" id="Node000027" href="$classdsp__merger.html" title="Combine two &#39;compatible&#39; DSP modules in a merger." alt="" coords="385,712,484,737"/>
+<area shape="poly" id="edge28_Node000025_Node000027" title=" " alt="" coords="274,722,385,722,385,727,274,727"/>
+<area shape="rect" id="Node000028" href="$classdsp__parallelizer.html" title="Combine two DSP modules in parallel." alt="" coords="372,761,497,787"/>
+<area shape="poly" id="edge29_Node000025_Node000028" title=" " alt="" coords="259,737,372,759,371,765,258,743"/>
+<area shape="rect" id="Node000029" href="$classdsp__recursiver.html" title="Combine two &#39;compatible&#39; DSP modules in a recursive way." alt="" coords="376,811,493,836"/>
+<area shape="poly" id="edge30_Node000025_Node000029" title=" " alt="" coords="250,740,261,746,277,759,286,772,295,784,309,796,342,809,377,816,375,822,341,814,307,800,291,788,282,775,273,763,259,751,247,745"/>
+<area shape="rect" id="Node000030" href="$classdsp__sequencer.html" title="Combine two &#39;compatible&#39; DSP modules in sequence." alt="" coords="375,860,494,885"/>
+<area shape="poly" id="edge31_Node000025_Node000030" title=" " alt="" coords="255,742,262,747,273,759,280,772,286,798,292,823,299,834,310,845,341,861,376,869,375,874,339,866,306,849,294,837,287,825,281,799,275,774,269,762,258,751,252,746"/>
+<area shape="rect" id="Node000031" href="$classdsp__splitter.html" title="Combine two &#39;compatible&#39; DSP modules in a splitter." alt="" coords="385,909,484,935"/>
+<area shape="poly" id="edge32_Node000025_Node000031" title=" " alt="" coords="257,743,262,747,276,766,284,785,286,823,288,860,295,878,310,895,326,906,345,914,385,921,384,926,344,919,324,911,306,899,291,880,283,862,281,824,278,786,272,768,258,750,254,747"/>
+<area shape="rect" id="Node000036" href="$classunitydsp.html" title=" " alt="" coords="321,959,548,984"/>
+<area shape="poly" id="edge39_Node000035_Node000036" title=" " alt="" coords="226,935,323,956,322,961,225,941"/>
+<area shape="poly" id="edge40_Node000035_Node000036" title=" " alt="" coords="226,921,316,937,401,956,400,961,315,942,226,926"/>
+<area shape="rect" id="Node000038" href="$classproxy__osc__dsp.html" title=" " alt="" coords="375,1008,494,1033"/>
+<area shape="poly" id="edge44_Node000037_Node000038" title=" " alt="" coords="238,980,375,1007,374,1012,237,985"/>
+<area shape="rect" id="Node000041" href="$classsound__dtd__player.html" title=" " alt="" coords="366,1057,503,1083"/>
+<area shape="poly" id="edge47_Node000040_Node000041" title=" " alt="" coords="266,1067,366,1067,366,1073,266,1073"/>
+<area shape="rect" id="Node000042" href="$classsound__memory__player.html" title=" " alt="" coords="349,1107,520,1132"/>
+<area shape="poly" id="edge48_Node000040_Node000042" title=" " alt="" coords="258,1083,309,1093,367,1104,366,1109,307,1098,257,1088"/>
+</map>

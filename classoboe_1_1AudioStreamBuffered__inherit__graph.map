@@ -1,0 +1,18 @@
+<map id="oboe::AudioStreamBuffered" name="oboe::AudioStreamBuffered">
+<area shape="rect" id="Node000001" title=" " alt="" coords="163,152,364,177"/>
+<area shape="rect" id="Node000004" href="$classoboe_1_1AudioStreamOpenSLES.html" title=" " alt="" coords="158,225,369,251"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="257,191,259,225,254,225,252,191"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="275,191,273,225,268,225,269,191"/>
+<area shape="rect" id="Node000002" href="$classoboe_1_1AudioStream.html" title=" " alt="" coords="190,79,337,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,118,259,152,254,152,252,118"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="275,118,273,152,268,152,269,118"/>
+<area shape="rect" id="Node000003" href="$classoboe_1_1AudioStreamBase.html" title=" " alt="" coords="174,5,353,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,44,259,78,254,79,252,45"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="275,45,273,79,268,78,269,44"/>
+<area shape="rect" id="Node000005" href="$classoboe_1_1AudioInputStreamOpenSLES.html" title=" " alt="" coords="5,299,249,324"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="224,259,144,301,141,296,221,254"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="238,260,158,301,155,296,235,255"/>
+<area shape="rect" id="Node000006" href="$classoboe_1_1AudioOutputStreamOpenSLES.html" title=" " alt="" coords="273,299,528,324"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="292,255,373,296,370,301,289,260"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="306,254,386,296,384,301,303,259"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="coreaudio" name="coreaudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,185,92,211"/>
+<area shape="rect" id="Node000002" href="$classaudio.html" title=" " alt="" coords="19,7,78,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,47,51,185,46,185,46,47"/>
+<area shape="rect" id="Node000003" href="$classTCoreAudioRenderer.html" title=" " alt="" coords="65,97,219,123"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="68,42,94,71,125,95,122,99,91,75,64,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,134,63,187,60,183,117,130"/>
+<area shape="rect" id="Node000004" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="126,7,171,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,47,146,97,140,97,144,46"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="186,10,194,13,198,20,189,30,172,31,172,25,187,25,193,20,191,17,184,15"/>
+</map>

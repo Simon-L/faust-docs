@@ -1,0 +1,4 @@
+<map id="GLM_GTC_type_aligned" name="GLM_GTC_type_aligned">
+<area shape="rect" id="Node000002" href="$group__gtc.html" title="Functions and types that the GLSL specification doesn&#39;t define, but useful to have for a C++ program." alt="" coords="5,5,184,31"/>
+<area shape="rect" id="Node000001" title="Aligned types. &lt;glm/gtc/type_aligned.hpp&gt; need to be included to use these features." alt="" coords="232,5,407,31"/>
+</map>

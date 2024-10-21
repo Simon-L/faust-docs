@@ -1,0 +1,12 @@
+<map id="glm::detail::_swizzle&lt; N, T, P, vecType, E0, E1, E2, E3 &gt;" name="glm::detail::_swizzle&lt; N, T, P, vecType, E0, E1, E2, E3 &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="709,20,877,75"/>
+<area shape="rect" id="Node000002" href="$structglm_1_1detail_1_1__swizzle__base2.html" title=" " alt="" coords="449,5,661,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,54,709,53,709,59,675,59"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="675,36,709,36,709,41,675,41"/>
+<area shape="rect" id="Node000003" href="$structglm_1_1detail_1_1__swizzle__base1.html" title=" " alt="" coords="208,13,401,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,54,449,54,449,59,415,59"/>
+<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="415,36,449,36,449,41,415,41"/>
+<area shape="rect" id="Node000004" href="$structglm_1_1detail_1_1__swizzle__base0.html" title=" " alt="" coords="5,27,160,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="174,54,208,54,208,59,174,59"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="174,36,208,36,208,41,174,41"/>
+</map>

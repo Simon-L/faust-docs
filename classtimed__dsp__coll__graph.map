@@ -1,0 +1,19 @@
+<map id="timed_dsp" name="timed_dsp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="75,363,165,388"/>
+<area shape="rect" id="Node000002" href="$classdecorator__dsp.html" title=" " alt="" coords="5,275,120,300"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,310,114,361,110,364,76,313"/>
+<area shape="rect" id="Node000003" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="5,185,51,210"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="35,223,44,250,57,273,52,275,39,252,30,224"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="40,222,61,273,56,275,35,224"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="65,188,73,191,77,198,68,206,51,207,51,201,67,201,72,197,70,195,64,193"/>
+<area shape="rect" id="Node000004" href="$structZoneUI.html" title=" " alt="" coords="144,275,213,300"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="165,313,130,364,126,361,161,310"/>
+<area shape="rect" id="Node000005" href="$classGenericUI.html" title=" " alt="" coords="135,185,222,210"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="181,224,181,274,176,274,176,224"/>
+<area shape="rect" id="Node000006" href="$structUI.html" title=" " alt="" coords="159,108,198,133"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="181,147,181,184,176,184,176,147"/>
+<area shape="rect" id="Node000007" href="$structUIReal.html" title=" " alt="" coords="7,5,185,31"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="116,39,171,106,167,110,112,43"/>
+<area shape="rect" id="Node000008" href="$classUiControlSet.html" title=" " alt="" coords="209,5,313,31"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="245,43,190,110,186,106,241,39"/>
+</map>

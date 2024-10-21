@@ -1,0 +1,39 @@
+<map id="ElxInterface" name="ElxInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,351,105,376"/>
+<area shape="rect" id="Node000002" href="$classCAlternativeElxT.html" title=" " alt="" coords="166,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,337,57,276,71,197,83,154,100,113,123,74,152,40,168,29,171,33,155,44,127,77,105,115,88,156,76,198,63,277,59,337"/>
+<area shape="rect" id="Node000003" href="$classCAssertElxT.html" title=" " alt="" coords="181,55,320,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="55,337,62,284,77,218,90,183,106,149,126,117,152,89,180,73,182,78,155,93,131,120,111,151,95,185,83,219,67,285,61,337"/>
+<area shape="rect" id="Node000004" href="$classCBackrefElxT.html" title=" " alt="" coords="159,104,342,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="58,337,67,293,84,240,112,185,130,160,152,139,170,127,173,132,155,143,134,164,116,188,89,242,72,295,63,338"/>
+<area shape="rect" id="Node000005" href="$classCBoundaryElxT.html" title=" " alt="" coords="153,153,348,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="61,337,73,303,92,263,118,222,152,188,171,177,174,181,155,192,122,225,97,265,78,305,66,339"/>
+<area shape="rect" id="Node000006" href="$classCBracketElxT.html" title=" " alt="" coords="159,203,342,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="67,337,101,286,124,259,152,237,175,226,178,230,155,242,128,263,105,289,72,340"/>
+<area shape="rect" id="Node000007" href="$classCConditionElxT.html" title=" " alt="" coords="153,252,348,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="78,339,111,311,152,286,182,275,184,280,155,291,115,316,81,343"/>
+<area shape="rect" id="Node000008" href="$classCDelegateElxT.html" title=" " alt="" coords="155,301,347,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="117,345,153,335,197,324,199,329,154,341,119,350"/>
+<area shape="rect" id="Node000009" href="$classCEmptyElxT.html" title=" " alt="" coords="181,351,320,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="120,361,181,361,181,366,120,366"/>
+<area shape="rect" id="Node000010" href="$classCGlobalElxT.html" title=" " alt="" coords="181,400,320,425"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="120,377,200,397,199,403,118,382"/>
+<area shape="rect" id="Node000011" href="$classCIndependentElxT.html" title=" " alt="" coords="161,449,340,475"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="82,383,115,410,155,434,188,447,186,452,152,439,112,414,79,388"/>
+<area shape="rect" id="Node000012" href="$classCListElxT.html" title=" " alt="" coords="191,499,311,524"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="72,387,105,437,128,462,155,484,192,500,189,505,152,488,125,466,101,440,68,390"/>
+<area shape="rect" id="Node000013" href="$classCPosixElxT.html" title=" " alt="" coords="167,548,335,573"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="67,388,79,422,97,461,123,500,155,533,177,546,174,550,152,537,118,504,93,464,74,424,62,390"/>
+<area shape="rect" id="Node000014" href="$classCRangeElxT.html" title=" " alt="" coords="163,597,338,623"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="63,389,73,432,90,484,117,538,134,562,155,583,175,595,172,600,152,587,130,565,112,540,85,486,68,433,58,390"/>
+<area shape="rect" id="Node000015" href="$classCRepeatElxT.html" title=" " alt="" coords="179,647,322,672"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="61,390,68,441,83,507,95,541,111,574,131,605,155,632,180,647,178,652,152,636,127,608,106,577,90,543,78,508,62,442,56,390"/>
+<area shape="rect" id="Node000019" href="$classCStringElxT.html" title=" " alt="" coords="165,696,336,721"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="59,390,63,450,76,529,89,570,105,611,127,648,155,681,173,694,170,698,152,685,123,652,101,613,84,572,71,530,58,451,54,390"/>
+<area shape="rect" id="Node000016" href="$classCGreedyElxT.html" title=" " alt="" coords="403,623,547,648"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="336,648,403,640,403,646,336,653"/>
+<area shape="rect" id="Node000018" href="$classCReluctantElxT.html" title=" " alt="" coords="396,672,555,697"/>
+<area shape="poly" id="edge17_Node000015_Node000018" title=" " alt="" coords="336,666,396,673,395,678,335,672"/>
+<area shape="rect" id="Node000017" href="$classCPossessiveElxT.html" title=" " alt="" coords="603,623,772,648"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="561,633,603,633,603,638,561,638"/>
+</map>

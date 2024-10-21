@@ -1,0 +1,13 @@
+<map id="QTGUI" name="QTGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,225,163,251"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,84,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,184,119,223,115,227,67,188"/>
+<area shape="rect" id="Node000003" href="$classGUI.html" title=" " alt="" coords="108,152,155,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,191,134,225,129,225,129,191"/>
+<area shape="rect" id="Node000004" href="$structUI.html" title=" " alt="" coords="112,79,151,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,118,134,152,129,152,129,118"/>
+<area shape="rect" id="Node000005" href="$structUIReal.html" title=" " alt="" coords="43,5,220,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="134,44,134,79,129,79,129,44"/>
+<area shape="rect" id="Node000006" href="$classMetaDataUI.html" title=" " alt="" coords="179,152,279,177"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="203,188,149,227,146,223,200,183"/>
+</map>

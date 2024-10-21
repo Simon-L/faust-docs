@@ -1,0 +1,24 @@
+<map id="uiButton" name="uiButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="292,299,369,324"/>
+<area shape="rect" id="Node000002" href="$classuiItem.html" title=" " alt="" coords="253,152,317,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,190,305,247,324,297,319,299,300,249,284,192"/>
+<area shape="poly" id="edge10_Node000001_Node000002" title=" " alt="" coords="302,189,322,246,335,298,330,299,317,248,297,191"/>
+<area shape="rect" id="Node000005" href="$classuiComponent.html" title="Intern class for all FAUST active or passive widgets." alt="" coords="117,225,227,251"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="257,187,192,227,189,223,254,183"/>
+<area shape="rect" id="Node000010" href="$classuiCocoaItem.html" title=" " alt="" coords="329,225,433,251"/>
+<area shape="poly" id="edge12_Node000010_Node000002" title=" " alt="" coords="313,183,367,223,364,227,310,188"/>
+<area shape="rect" id="Node000003" href="$classuiTypedItemReal.html" title=" " alt="" coords="164,79,407,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,118,288,152,283,152,283,118"/>
+<area shape="rect" id="Node000004" href="$structuiItemBase.html" title=" " alt="" coords="237,5,333,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="288,44,288,79,283,79,283,44"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,254,306,296,304,301,209,259"/>
+<area shape="rect" id="Node000006" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="73,181,151,223,149,227,71,186"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="97,152,229,177"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="169,191,173,225,168,226,163,191"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="457,225,617,251"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="492,258,365,301,363,296,490,253"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="641,225,716,251"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="628,254,370,305,369,300,627,248"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="367,264,341,300,337,297,363,261"/>
+</map>

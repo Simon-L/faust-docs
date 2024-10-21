@@ -1,0 +1,21 @@
+<map id="uiMidiItem" name="uiMidiItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,433,161,459"/>
+<area shape="rect" id="Node000002" href="$classuiMidi.html" title=" " alt="" coords="41,359,103,384"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,395,110,432,105,434,84,398"/>
+<area shape="rect" id="Node000003" href="$classmidi.html" title=" " alt="" coords="5,271,56,296"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="45,307,69,357,64,359,40,310"/>
+<area shape="rect" id="Node000004" href="$classuiItem.html" title=" " alt="" coords="148,359,212,384"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,397,127,435,123,431,158,393"/>
+<area shape="rect" id="Node000005" href="$classuiTypedItemReal.html" title=" " alt="" coords="80,271,323,296"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,310,186,359,180,357,193,309"/>
+<area shape="rect" id="Node000006" href="$structuiItemBase.html" title=" " alt="" coords="119,183,215,208"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="179,220,199,269,194,271,174,222"/>
+<area shape="rect" id="Node000007" href="$classGUI.html" title=" " alt="" coords="239,183,286,208"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="248,221,212,272,208,269,244,218"/>
+<area shape="rect" id="Node000008" href="$structUI.html" title=" " alt="" coords="243,108,282,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="265,148,265,182,260,182,260,148"/>
+<area shape="rect" id="Node000009" href="$structUIReal.html" title=" " alt="" coords="91,5,269,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="200,39,255,106,251,110,196,43"/>
+<area shape="rect" id="Node000010" href="$classUiControlSet.html" title=" " alt="" coords="293,5,397,31"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="329,43,274,110,270,106,325,39"/>
+</map>

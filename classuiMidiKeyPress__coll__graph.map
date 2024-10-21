@@ -1,0 +1,29 @@
+<map id="uiMidiKeyPress" name="uiMidiKeyPress">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,596,273,621"/>
+<area shape="rect" id="Node000002" href="$classuiMidiTimedItem.html" title=" " alt="" coords="77,521,210,547"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,555,203,594,200,598,162,559"/>
+<area shape="rect" id="Node000003" href="$classuiMidi.html" title=" " alt="" coords="5,433,68,459"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,465,131,519,127,523,60,469"/>
+<area shape="rect" id="Node000004" href="$classmidi.html" title=" " alt="" coords="11,345,62,371"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="39,385,39,433,34,433,34,385"/>
+<area shape="rect" id="Node000005" href="$classuiTimedItem.html" title=" " alt="" coords="92,433,197,459"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="147,473,146,521,141,521,142,473"/>
+<area shape="rect" id="Node000006" href="$classuiItem.html" title=" " alt="" coords="113,345,177,371"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,385,147,433,142,433,142,385"/>
+<area shape="rect" id="Node000007" href="$classuiTypedItemReal.html" title=" " alt="" coords="23,271,266,296"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="147,310,147,345,142,345,142,310"/>
+<area shape="rect" id="Node000008" href="$structuiItemBase.html" title=" " alt="" coords="75,183,171,208"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="132,221,144,269,139,271,127,222"/>
+<area shape="rect" id="Node000009" href="$classGUI.html" title=" " alt="" coords="196,183,243,208"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="202,220,157,272,153,268,198,217"/>
+<area shape="rect" id="Node000010" href="$structUI.html" title=" " alt="" coords="200,108,239,133"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="222,148,222,182,217,182,217,148"/>
+<area shape="rect" id="Node000011" href="$structUIReal.html" title=" " alt="" coords="48,5,225,31"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="157,39,212,106,208,110,153,43"/>
+<area shape="rect" id="Node000012" href="$classUiControlSet.html" title=" " alt="" coords="250,5,354,31"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="286,43,231,110,227,106,282,39"/>
+<area shape="rect" id="Node000013" href="$structuiConverter.html" title=" " alt="" coords="234,521,333,547"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="264,559,226,598,222,594,260,555"/>
+<area shape="rect" id="Node000014" href="$classValueConverter.html" title=" " alt="" coords="222,433,345,459"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="286,473,286,521,281,521,281,473"/>
+</map>

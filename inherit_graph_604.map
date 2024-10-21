@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,104,244,129"/>
+<area shape="rect" id="Node000001" href="$classOscillatorBase.html" title=" " alt="" coords="292,104,408,129"/>
+<area shape="poly" id="edge678_Node000000_Node000001" title=" " alt="" coords="258,114,292,114,292,119,258,119"/>
+<area shape="rect" id="Node000002" href="$classImpulseOscillator.html" title=" " alt="" coords="461,5,597,31"/>
+<area shape="poly" id="edge679_Node000001_Node000002" title=" " alt="" coords="376,93,412,66,455,40,482,28,484,33,457,44,415,70,379,97"/>
+<area shape="rect" id="Node000003" href="$classSawPingGenerator.html" title=" " alt="" coords="457,55,600,80"/>
+<area shape="poly" id="edge680_Node000001_Node000003" title=" " alt="" coords="409,98,481,78,482,83,411,103"/>
+<area shape="rect" id="Node000004" href="$classSawtoothOscillator.html" title=" " alt="" coords="456,104,601,129"/>
+<area shape="poly" id="edge681_Node000001_Node000004" title=" " alt="" coords="422,114,456,114,456,119,422,119"/>
+<area shape="rect" id="Node000005" href="$classSineOscillator.html" title=" " alt="" coords="473,153,585,179"/>
+<area shape="poly" id="edge682_Node000001_Node000005" title=" " alt="" coords="411,131,482,151,481,156,409,136"/>
+<area shape="rect" id="Node000006" href="$classTriangleOscillator.html" title=" " alt="" coords="461,203,596,228"/>
+<area shape="poly" id="edge683_Node000001_Node000006" title=" " alt="" coords="379,136,415,162,457,188,486,200,484,205,455,192,412,167,376,140"/>
+</map>

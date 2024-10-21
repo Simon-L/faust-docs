@@ -1,0 +1,10 @@
+<map id="iolib::SampleSource" name="iolib::SampleSource">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,181,156,207"/>
+<area shape="rect" id="Node000002" href="$classiolib_1_1DataSource.html" title=" " alt="" coords="14,93,147,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,132,77,181,72,181,70,132"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="92,132,90,181,84,181,86,132"/>
+<area shape="rect" id="Node000003" href="$classiolib_1_1SampleBuffer.html" title=" " alt="" coords="171,93,318,119"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="212,127,104,183,102,179,209,123"/>
+<area shape="rect" id="Node000004" href="$structiolib_1_1AudioProperties.html" title=" " alt="" coords="164,5,325,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="247,45,247,93,242,93,242,45"/>
+</map>

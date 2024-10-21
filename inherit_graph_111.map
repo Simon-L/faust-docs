@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classcom_1_1mobileer_1_1miditools_1_1synth_1_1SynthUnit.html" title=" " alt="" coords="5,37,225,77"/>
+<area shape="rect" id="Node000001" href="$classcom_1_1mobileer_1_1miditools_1_1synth_1_1EnvelopeADSR.html" title=" " alt="" coords="273,5,493,45"/>
+<area shape="poly" id="edge491_Node000000_Node000001" title=" " alt="" coords="238,40,273,36,273,41,239,45"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1mobileer_1_1miditools_1_1synth_1_1SawOscillator.html" title=" " alt="" coords="273,69,493,109"/>
+<area shape="poly" id="edge492_Node000000_Node000002" title=" " alt="" coords="239,69,273,74,273,79,238,75"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1mobileer_1_1miditools_1_1synth_1_1SawOscillatorDPW.html" title=" " alt="" coords="541,37,761,77"/>
+<area shape="poly" id="edge493_Node000002_Node000003" title=" " alt="" coords="506,72,541,68,541,73,507,77"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1mobileer_1_1miditools_1_1synth_1_1SineOscillator.html" title=" " alt="" coords="541,101,761,141"/>
+<area shape="poly" id="edge494_Node000002_Node000004" title=" " alt="" coords="507,101,541,106,541,111,506,107"/>
+</map>

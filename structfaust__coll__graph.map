@@ -1,0 +1,21 @@
+<map id="faust" name="faust">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,349,296,375"/>
+<area shape="rect" id="Node000002" href="$classmspUI.html" title=" " alt="" coords="238,183,302,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,222,271,349,266,349,267,222"/>
+<area shape="rect" id="Node000003" href="$structUI.html" title=" " alt="" coords="157,108,196,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,140,256,180,253,184,201,144"/>
+<area shape="rect" id="Node000009" href="$classGenericUI.html" title=" " alt="" coords="127,183,213,208"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="177,147,174,183,168,182,172,147"/>
+<area shape="rect" id="Node000004" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,39,169,106,165,110,110,43"/>
+<area shape="rect" id="Node000005" href="$classUiControlSet.html" title=" " alt="" coords="207,5,311,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="243,43,188,110,184,106,239,39"/>
+<area shape="rect" id="Node000006" href="$classPathBuilder.html" title=" " alt="" coords="222,108,318,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="273,148,273,182,267,182,267,148"/>
+<area shape="rect" id="Node000007" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="354,259,399,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="353,296,284,351,281,347,350,291"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="414,263,422,266,426,272,417,280,400,281,400,276,415,275,421,272,419,270,412,268"/>
+<area shape="rect" id="Node000008" href="$classSaveUI.html" title=" " alt="" coords="136,259,204,285"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="168,298,170,312,175,324,188,337,205,346,242,356,240,361,203,351,185,341,170,327,164,313,163,299"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="173,222,173,259,167,259,167,222"/>
+</map>

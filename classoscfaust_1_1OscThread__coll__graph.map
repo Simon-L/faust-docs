@@ -1,0 +1,7 @@
+<map id="oscfaust::OscThread" name="oscfaust::OscThread">
+<area shape="rect" id="Node000001" title="a specific thread to listen incoming osc packets" alt="" coords="64,93,219,119"/>
+<area shape="rect" id="Node000002" href="$classTThreads.html" title="cross platform threads support" alt="" coords="5,5,88,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,38,130,91,126,95,68,42"/>
+<area shape="rect" id="Node000003" href="$classoscfaust_1_1SMARTP.html" title=" " alt="" coords="113,5,359,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,42,156,95,153,91,211,38"/>
+</map>

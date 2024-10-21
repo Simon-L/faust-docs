@@ -1,0 +1,7 @@
+<map id="Faust" name="Faust">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,79,137,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,111,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,41,103,77,98,80,72,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,5,184,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,44,119,80,115,77,141,41"/>
+</map>

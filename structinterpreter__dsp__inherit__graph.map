@@ -1,0 +1,6 @@
+<map id="interpreter_dsp" name="interpreter_dsp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,127,104"/>
+<area shape="rect" id="Node000002" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="43,5,89,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,44,62,78,56,79,55,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="77,45,76,79,70,78,72,44"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="oboe::AudioStreamAAudio" name="oboe::AudioStreamAAudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,197,177"/>
+<area shape="rect" id="Node000002" href="$classoboe_1_1AudioStream.html" title=" " alt="" coords="28,79,175,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,118,97,152,92,152,90,118"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="113,118,111,152,106,152,107,118"/>
+<area shape="rect" id="Node000003" href="$classoboe_1_1AudioStreamBase.html" title=" " alt="" coords="12,5,191,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,44,97,78,92,79,90,45"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="113,45,111,79,106,78,107,44"/>
+</map>

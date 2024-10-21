@@ -1,0 +1,14 @@
+<map id="signalsmith::plot::Plot2D" name="signalsmith::plot::Plot2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="732,64,871,104"/>
+<area shape="rect" id="Node000002" href="$classsignalsmith_1_1plot_1_1SvgFileDrawable.html" title="Top&#45;level objects which can generate SVG files." alt="" coords="518,5,657,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="671,45,732,62,731,68,669,50"/>
+<area shape="rect" id="Node000003" href="$classsignalsmith_1_1plot_1_1SvgDrawable.html" title=" " alt="" coords="244,5,383,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,23,518,23,518,28,396,28"/>
+<area shape="rect" id="Node000004" href="$structsignalsmith_1_1plot_1_1Bounds.html" title=" " alt="" coords="5,5,144,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,23,244,23,244,28,158,28"/>
+<area shape="rect" id="Node000005" href="$classsignalsmith_1_1plot_1_1Axis.html" title=" " alt="" coords="504,133,671,158"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="684,135,707,129,739,117,767,102,770,107,741,122,709,135,685,140"/>
+<area shape="rect" id="Node000006" href="$structsignalsmith_1_1plot_1_1PlotStyle_1_1Counter.html" title=" " alt="" coords="244,84,383,124"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="397,98,732,84,732,89,397,103"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="396,114,504,130,503,135,396,119"/>
+</map>

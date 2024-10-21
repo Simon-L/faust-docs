@@ -1,0 +1,6 @@
+<map id="com.google.oboe.samples.megadrone.MainActivity" name="com.google.oboe.samples.megadrone.MainActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,280,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="69,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,44,138,78,132,79,132,44"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="154,44,153,79,148,78,148,44"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="StreamOpen" name="StreamOpen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,79,207,104"/>
+<area shape="rect" id="Node000003" href="$classStreamOpenInput.html" title=" " alt="" coords="5,152,141,177"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="127,114,82,154,78,150,123,110"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="141,116,95,154,92,150,138,112"/>
+<area shape="rect" id="Node000004" href="$classStreamOpenOutput.html" title=" " alt="" coords="165,152,312,177"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="174,112,220,150,217,154,171,116"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="189,110,234,150,230,154,185,114"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="105,5,207,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,44,152,78,146,79,145,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="167,45,166,79,160,78,162,44"/>
+</map>

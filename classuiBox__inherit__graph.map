@@ -1,0 +1,15 @@
+<map id="uiBox" name="uiBox">
+<area shape="rect" id="Node000001" title="Intern class for box widgets." alt="" coords="133,299,192,324"/>
+<area shape="rect" id="Node000002" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="5,225,72,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,255,144,296,141,301,69,260"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,225,229,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,264,165,299,160,299,160,264"/>
+<area shape="rect" id="Node000004" href="$classuiCocoaItem.html" title=" " alt="" coords="253,225,357,251"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,259,187,301,185,296,269,254"/>
+<area shape="rect" id="Node000005" href="$classuiItem.html" title=" " alt="" coords="273,152,337,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="308,191,308,225,303,225,303,191"/>
+<area shape="rect" id="Node000006" href="$classuiTypedItemReal.html" title=" " alt="" coords="184,79,427,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="308,118,308,152,303,152,303,118"/>
+<area shape="rect" id="Node000007" href="$structuiItemBase.html" title=" " alt="" coords="257,5,353,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="308,44,308,79,303,79,303,44"/>
+</map>

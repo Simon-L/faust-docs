@@ -1,0 +1,11 @@
+<map id="signalsmith::plot::SvgFileDrawable::ScheduledWrite" name="signalsmith::plot::SvgFileDrawable::ScheduledWrite">
+<area shape="rect" id="Node000001" title="Draws when this object goes out of scope." alt="" coords="86,300,293,355"/>
+<area shape="rect" id="Node000002" href="$classsignalsmith_1_1plot_1_1SvgFileDrawable.html" title="Top&#45;level objects which can generate SVG files." alt="" coords="5,197,144,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,245,163,298,160,302,103,248"/>
+<area shape="rect" id="Node000003" href="$classsignalsmith_1_1plot_1_1SvgDrawable.html" title=" " alt="" coords="5,108,144,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,162,77,197,72,197,72,162"/>
+<area shape="rect" id="Node000004" href="$structsignalsmith_1_1plot_1_1Bounds.html" title=" " alt="" coords="5,5,144,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,59,77,108,72,108,72,59"/>
+<area shape="rect" id="Node000005" href="$classsignalsmith_1_1plot_1_1PlotStyle.html" title=" " alt="" coords="168,197,307,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="226,251,203,301,199,299,221,249"/>
+</map>

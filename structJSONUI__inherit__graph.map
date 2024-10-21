@@ -1,0 +1,20 @@
+<map id="JSONUI" name="JSONUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,240,253,265"/>
+<area shape="rect" id="Node000002" href="$classJSONUIReal.html" title=" " alt="" coords="41,167,250,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,200,209,238,205,242,165,204"/>
+<area shape="rect" id="Node000003" href="$classPathBuilder.html" title=" " alt="" coords="5,93,101,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,125,132,164,129,169,77,129"/>
+<area shape="rect" id="Node000004" href="$structMeta.html" title=" " alt="" coords="126,93,181,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="153,133,149,167,144,166,148,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="73,5,234,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="121,58,121,76,129,92,124,94,116,78,115,59"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="138,59,143,93,137,93,133,59"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="156,59,156,93,151,93,151,59"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="174,59,169,93,164,93,168,59"/>
+<area shape="poly" id="edge8_Node000004_Node000005" title=" " alt="" coords="191,59,191,78,182,94,178,92,185,76,186,58"/>
+<area shape="rect" id="Node000006" href="$structUIReal.html" title=" " alt="" coords="221,93,349,119"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="252,127,169,169,167,164,249,122"/>
+<area shape="rect" id="Node000007" href="$structUI.html" title=" " alt="" coords="274,167,313,192"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="291,132,295,166,289,167,286,133"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="273,203,233,242,229,238,270,199"/>
+</map>

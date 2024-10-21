@@ -1,0 +1,16 @@
+<map id="MyCallback" name="MyCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,152,171,177"/>
+<area shape="rect" id="Node000002" href="$classoboe_1_1AudioStreamDataCallback.html" title=" " alt="" coords="5,5,239,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,44,99,71,98,101,101,129,109,151,104,153,96,130,93,101,93,70,98,43"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="118,45,116,101,119,152,114,152,110,101,112,45"/>
+<area shape="poly" id="edge8_Node000001_Node000002" title=" " alt="" coords="132,45,134,101,130,152,125,152,128,101,126,45"/>
+<area shape="poly" id="edge9_Node000001_Node000002" title=" " alt="" coords="146,43,151,70,151,101,148,130,140,153,135,151,143,129,146,101,145,71,140,44"/>
+<area shape="rect" id="Node000003" href="$classoboe_1_1AudioStreamCallback.html" title=" " alt="" coords="195,79,398,104"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="157,34,262,76,260,81,155,39"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="171,33,276,76,274,81,168,38"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="250,111,145,154,143,149,248,106"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="264,112,158,154,156,149,262,107"/>
+<area shape="rect" id="Node000004" href="$classoboe_1_1AudioStreamErrorCallback.html" title=" " alt="" coords="263,5,496,31"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="350,41,305,80,302,76,347,37"/>
+<area shape="poly" id="edge7_Node000003_Node000004" title=" " alt="" coords="364,43,319,81,315,76,361,39"/>
+</map>

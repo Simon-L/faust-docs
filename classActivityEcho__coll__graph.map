@@ -1,0 +1,27 @@
+<map id="ActivityEcho" name="ActivityEcho">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,467,303,492"/>
+<area shape="rect" id="Node000002" href="$classActivityFullDuplex.html" title=" " alt="" coords="181,392,322,417"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,431,247,466,242,466,240,431"/>
+<area shape="poly" id="edge16_Node000001_Node000002" title=" " alt="" coords="263,431,261,466,256,466,257,431"/>
+<area shape="rect" id="Node000003" href="$classActivityContext.html" title=" " alt="" coords="190,317,313,343"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,356,247,392,242,392,240,357"/>
+<area shape="poly" id="edge15_Node000002_Node000003" title=" " alt="" coords="263,357,261,392,256,392,257,356"/>
+<area shape="rect" id="Node000004" href="$classAudioStreamGateway.html" title=" " alt="" coords="59,229,223,255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,264,185,291,225,315,222,319,182,295,155,268"/>
+<area shape="rect" id="Node000005" href="$classOboeTesterStreamCallback.html" title=" " alt="" coords="41,155,240,180"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="135,194,136,229,131,229,129,194"/>
+<area shape="poly" id="edge11_Node000004_Node000005" title=" " alt="" coords="152,194,150,229,145,229,147,194"/>
+<area shape="rect" id="Node000006" href="$classoboe_1_1AudioStreamCallback.html" title=" " alt="" coords="149,80,351,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="216,115,153,156,150,152,213,110"/>
+<area shape="poly" id="edge10_Node000005_Node000006" title=" " alt="" coords="230,116,166,157,164,152,227,111"/>
+<area shape="rect" id="Node000009" href="$classOboeStreamCallbackProxy.html" title=" " alt="" coords="264,155,460,180"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="274,111,339,152,336,157,271,116"/>
+<area shape="poly" id="edge14_Node000009_Node000006" title=" " alt="" coords="288,110,352,152,349,156,285,115"/>
+<area shape="rect" id="Node000007" href="$classoboe_1_1AudioStreamDataCallback.html" title=" " alt="" coords="5,5,239,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="149,36,224,77,221,82,146,40"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="163,35,238,77,235,82,160,39"/>
+<area shape="rect" id="Node000008" href="$classoboe_1_1AudioStreamErrorCallback.html" title=" " alt="" coords="263,5,496,31"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="341,39,265,82,263,77,338,35"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="355,40,279,82,276,77,352,36"/>
+<area shape="poly" id="edge12_Node000003_Node000009" title=" " alt="" coords="364,194,356,244,346,271,331,295,314,310,295,320,292,315,311,305,327,292,341,269,351,243,359,193"/>
+</map>

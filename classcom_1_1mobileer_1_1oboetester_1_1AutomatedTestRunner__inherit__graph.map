@@ -1,0 +1,9 @@
+<map id="com.mobileer.oboetester.AutomatedTestRunner" name="com.mobileer.oboetester.AutomatedTestRunner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,79,211,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,112,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,41,97,77,93,80,66,44"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="85,39,113,77,109,80,81,42"/>
+<area shape="rect" id="Node000003" href="$structRunnable.html" title=" " alt="" coords="136,5,219,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,42,126,80,122,77,151,39"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="170,44,142,80,138,77,166,41"/>
+</map>

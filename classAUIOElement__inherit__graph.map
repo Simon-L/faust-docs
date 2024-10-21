@@ -1,0 +1,9 @@
+<map id="AUIOElement" name="AUIOElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,79,203,104"/>
+<area shape="rect" id="Node000003" href="$classAUInputElement.html" title=" " alt="" coords="5,152,133,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,115,84,154,80,150,123,111"/>
+<area shape="rect" id="Node000004" href="$classAUOutputElement.html" title=" " alt="" coords="157,152,296,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,111,216,150,212,154,169,115"/>
+<area shape="rect" id="Node000002" href="$classAUElement.html" title=" " alt="" coords="101,5,195,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,44,151,79,145,79,145,44"/>
+</map>

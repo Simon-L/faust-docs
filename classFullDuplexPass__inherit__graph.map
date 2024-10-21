@@ -1,0 +1,17 @@
+<map id="FullDuplexPass" name="FullDuplexPass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="190,225,310,251"/>
+<area shape="rect" id="Node000002" href="$classFullDuplexStream.html" title=" " alt="" coords="181,152,319,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,191,246,225,240,225,239,191"/>
+<area shape="poly" id="edge10_Node000001_Node000002" title=" " alt="" coords="261,191,260,225,254,225,256,191"/>
+<area shape="rect" id="Node000003" href="$classoboe_1_1AudioStreamCallback.html" title=" " alt="" coords="149,79,351,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,117,226,135,232,151,227,153,221,136,222,117"/>
+<area shape="poly" id="edge7_Node000002_Node000003" title=" " alt="" coords="244,118,246,152,240,152,239,118"/>
+<area shape="poly" id="edge8_Node000002_Node000003" title=" " alt="" coords="261,118,260,152,254,152,256,118"/>
+<area shape="poly" id="edge9_Node000002_Node000003" title=" " alt="" coords="278,117,279,136,273,153,268,151,274,135,273,117"/>
+<area shape="rect" id="Node000004" href="$classoboe_1_1AudioStreamDataCallback.html" title=" " alt="" coords="5,5,239,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,35,223,76,221,81,146,40"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="163,35,237,76,235,81,160,39"/>
+<area shape="rect" id="Node000005" href="$classoboe_1_1AudioStreamErrorCallback.html" title=" " alt="" coords="263,5,496,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="341,39,266,81,263,76,338,34"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="355,40,279,81,277,76,352,35"/>
+</map>

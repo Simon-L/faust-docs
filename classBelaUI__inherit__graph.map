@@ -1,0 +1,17 @@
+<map id="BelaUI" name="BelaUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,240,203,265"/>
+<area shape="rect" id="Node000002" href="$classGenericUI.html" title=" " alt="" coords="65,167,152,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,201,162,238,158,242,126,204"/>
+<area shape="rect" id="Node000003" href="$structUI.html" title=" " alt="" coords="75,86,113,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,124,109,166,104,167,96,125"/>
+<area shape="rect" id="Node000004" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="97,44,97,86,91,86,91,44"/>
+<area shape="rect" id="Node000005" href="$structMeta.html" title=" " alt="" coords="191,167,245,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="205,205,180,241,176,238,200,202"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="137,79,299,119"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="185,132,186,150,194,165,189,168,181,151,180,132"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="203,132,207,166,202,167,198,133"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="221,132,221,166,215,166,215,132"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="238,133,234,167,229,166,233,132"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="256,132,255,151,247,168,242,165,250,150,251,132"/>
+</map>

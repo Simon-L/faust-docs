@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classparselib_1_1WavChunkHeader.html" title=" " alt="" coords="5,31,204,56"/>
+<area shape="rect" id="Node000001" href="$classparselib_1_1WavFmtChunkHeader.html" title=" " alt="" coords="253,5,477,31"/>
+<area shape="poly" id="edge689_Node000000_Node000001" title=" " alt="" coords="218,30,253,26,253,32,218,35"/>
+<area shape="rect" id="Node000002" href="$classparselib_1_1WavRIFFChunkHeader.html" title=" " alt="" coords="252,55,479,80"/>
+<area shape="poly" id="edge690_Node000000_Node000002" title=" " alt="" coords="218,51,252,54,252,60,218,56"/>
+</map>

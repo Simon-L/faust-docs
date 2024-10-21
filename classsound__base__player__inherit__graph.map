@@ -1,0 +1,9 @@
+<map id="sound_base_player" name="sound_base_player">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,79,237,104"/>
+<area shape="rect" id="Node000003" href="$classsound__dtd__player.html" title=" " alt="" coords="5,152,143,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,115,90,154,87,150,137,110"/>
+<area shape="rect" id="Node000004" href="$classsound__memory__player.html" title=" " alt="" coords="167,152,338,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,110,240,150,236,154,187,115"/>
+<area shape="rect" id="Node000002" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="141,5,186,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,44,166,79,161,79,161,44"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="oscfaust::OSCStart" name="oscfaust::OSCStart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,223,31"/>
+<area shape="rect" id="Node000002" href="$structoscfaust_1_1OSCErr.html" title=" " alt="" coords="5,79,136,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,42,86,80,82,76,127,38"/>
+<area shape="rect" id="Node000003" href="$structoscfaust_1_1OSCWarn.html" title=" " alt="" coords="161,79,306,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,38,222,76,218,80,174,42"/>
+</map>

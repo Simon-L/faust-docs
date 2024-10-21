@@ -1,0 +1,11 @@
+<map id="FITabView" name="FITabView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,152,185,177"/>
+<area shape="rect" id="Node000002" href="$interfaceFIResponder.html" title=" " alt="" coords="5,79,108,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,111,129,150,125,154,79,115"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,5,98,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,44,59,79,54,79,54,44"/>
+<area shape="rect" id="Node000004" href="$protocolFIResponderDelegate-p.html" title=" " alt="" coords="133,79,317,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,115,156,154,153,150,199,111"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="173,5,277,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,44,227,79,222,79,222,44"/>
+</map>

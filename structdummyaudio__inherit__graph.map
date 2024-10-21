@@ -1,0 +1,9 @@
+<map id="dummyaudio" name="dummyaudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,225,185,251"/>
+<area shape="rect" id="Node000002" href="$classdummyaudio__real.html" title=" " alt="" coords="5,152,257,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,191,134,225,129,225,129,191"/>
+<area shape="rect" id="Node000003" href="$structdummyaudio__base.html" title=" " alt="" coords="58,79,205,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,118,134,152,129,152,129,118"/>
+<area shape="rect" id="Node000004" href="$classaudio.html" title=" " alt="" coords="102,5,161,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,44,134,79,129,79,129,44"/>
+</map>

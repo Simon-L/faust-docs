@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classActivityContext.html" title=" " alt="" coords="5,179,128,204"/>
+<area shape="rect" id="Node000001" href="$classActivityFullDuplex.html" title=" " alt="" coords="191,104,332,129"/>
+<area shape="poly" id="edge66_Node000000_Node000001" title=" " alt="" coords="103,170,175,138,209,127,211,132,177,143,106,175"/>
+<area shape="rect" id="Node000006" href="$classActivityTestDisconnect.html" title=" " alt="" coords="176,153,347,179"/>
+<area shape="poly" id="edge71_Node000000_Node000006" title=" " alt="" coords="141,179,175,174,176,180,142,184"/>
+<area shape="rect" id="Node000007" href="$classActivityTestInput.html" title=" " alt="" coords="196,203,327,228"/>
+<area shape="poly" id="edge72_Node000000_Node000007" title=" " alt="" coords="142,198,196,205,195,210,141,203"/>
+<area shape="rect" id="Node000009" href="$classActivityTestOutput.html" title=" " alt="" coords="190,252,333,277"/>
+<area shape="poly" id="edge74_Node000000_Node000009" title=" " alt="" coords="108,208,177,237,215,249,213,254,175,242,106,212"/>
+<area shape="rect" id="Node000002" href="$classActivityDataPath.html" title=" " alt="" coords="423,5,553,31"/>
+<area shape="poly" id="edge67_Node000001_Node000002" title=" " alt="" coords="292,94,339,66,394,40,428,28,429,33,396,44,341,71,294,99"/>
+<area shape="rect" id="Node000003" href="$classActivityEcho.html" title=" " alt="" coords="437,55,539,80"/>
+<area shape="poly" id="edge68_Node000001_Node000003" title=" " alt="" coords="333,98,436,76,437,81,334,104"/>
+<area shape="rect" id="Node000004" href="$classActivityGlitches.html" title=" " alt="" coords="425,104,551,129"/>
+<area shape="poly" id="edge69_Node000001_Node000004" title=" " alt="" coords="346,114,425,114,425,119,346,119"/>
+<area shape="rect" id="Node000005" href="$classActivityRoundTripLatency.html" title=" " alt="" coords="395,153,581,179"/>
+<area shape="poly" id="edge70_Node000001_Node000005" title=" " alt="" coords="334,130,429,151,428,156,333,135"/>
+<area shape="rect" id="Node000008" href="$classActivityRecording.html" title=" " alt="" coords="419,203,557,228"/>
+<area shape="poly" id="edge73_Node000007_Node000008" title=" " alt="" coords="340,213,419,213,419,218,340,218"/>
+<area shape="rect" id="Node000010" href="$classActivityTapToTone.html" title=" " alt="" coords="419,252,557,277"/>
+<area shape="poly" id="edge75_Node000009_Node000010" title=" " alt="" coords="347,262,419,262,419,267,347,267"/>
+</map>

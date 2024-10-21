@@ -1,0 +1,9 @@
+<map id="StreamFramesProcessed" name="StreamFramesProcessed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,93,250,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,107,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,45,138,91,135,95,73,49"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="91,44,152,91,148,95,87,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="131,5,392,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,56,169,95,166,91,216,51"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="236,56,182,95,179,91,232,52"/>
+</map>

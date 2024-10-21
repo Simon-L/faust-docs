@@ -1,0 +1,19 @@
+<map id="uiRadioButtons" name="uiRadioButtons">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,420,130,445"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,345,101,371"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,384,69,419,64,420,56,385"/>
+<area shape="rect" id="Node000003" href="$classuiItem.html" title=" " alt="" coords="125,345,189,371"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,382,85,422,82,417,131,378"/>
+<area shape="rect" id="Node000004" href="$classuiTypedItemReal.html" title=" " alt="" coords="36,271,279,296"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,310,160,345,155,345,155,310"/>
+<area shape="rect" id="Node000005" href="$structuiItemBase.html" title=" " alt="" coords="88,183,184,208"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="145,221,157,269,152,271,140,222"/>
+<area shape="rect" id="Node000006" href="$classGUI.html" title=" " alt="" coords="209,183,255,208"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="215,220,170,272,166,268,211,217"/>
+<area shape="rect" id="Node000007" href="$structUI.html" title=" " alt="" coords="213,108,251,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="235,148,235,182,229,182,229,148"/>
+<area shape="rect" id="Node000008" href="$structUIReal.html" title=" " alt="" coords="61,5,238,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="169,39,225,106,221,110,165,43"/>
+<area shape="rect" id="Node000009" href="$classUiControlSet.html" title=" " alt="" coords="263,5,367,31"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="299,43,243,110,239,106,295,39"/>
+</map>

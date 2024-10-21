@@ -1,0 +1,11 @@
+<map id="signalsmith::plot::Grid" name="signalsmith::plot::Grid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,361,172,387"/>
+<area shape="rect" id="Node000002" href="$classsignalsmith_1_1plot_1_1Cell.html" title=" " alt="" coords="7,287,171,312"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,326,91,361,86,361,86,326"/>
+<area shape="rect" id="Node000003" href="$classsignalsmith_1_1plot_1_1SvgFileDrawable.html" title="Top&#45;level objects which can generate SVG files." alt="" coords="19,197,158,237"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,251,91,286,86,286,86,251"/>
+<area shape="rect" id="Node000004" href="$classsignalsmith_1_1plot_1_1SvgDrawable.html" title=" " alt="" coords="19,108,158,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="91,162,91,197,86,197,86,162"/>
+<area shape="rect" id="Node000005" href="$structsignalsmith_1_1plot_1_1Bounds.html" title=" " alt="" coords="19,5,158,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="91,59,91,108,86,108,86,59"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="uiComponent" name="uiComponent">
+<area shape="rect" id="Node000001" title="Intern class for all FAUST active or passive widgets." alt="" coords="287,225,396,251"/>
+<area shape="rect" id="Node000007" href="$structuiButton.html" title=" " alt="" coords="5,299,83,324"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="281,256,84,303,82,298,280,251"/>
+<area shape="rect" id="Node000008" href="$structuiCheckButton.html" title=" " alt="" coords="107,299,224,324"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="301,258,195,301,193,296,299,253"/>
+<area shape="rect" id="Node000009" href="$classuiMenu.html" title=" " alt="" coords="247,299,318,324"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="325,263,294,300,290,297,321,260"/>
+<area shape="rect" id="Node000010" href="$classuiRadioButton.html" title=" " alt="" coords="343,299,457,324"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="362,260,393,297,388,300,358,263"/>
+<area shape="rect" id="Node000011" href="$classuiSlider.html" title="Intern class for all kind of sliders." alt="" coords="482,299,553,324"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="383,253,490,296,488,301,381,258"/>
+<area shape="rect" id="Node000012" href="$classuiVUMeter.html" title="Intern class for VU&#45;meter." alt="" coords="577,299,668,324"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="400,251,578,296,576,301,399,257"/>
+<area shape="rect" id="Node000002" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="184,152,251,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,182,322,223,320,227,248,186"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="275,152,407,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,191,344,225,339,225,339,191"/>
+<area shape="rect" id="Node000004" href="$classuiItem.html" title=" " alt="" coords="432,152,496,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,186,363,227,360,223,431,182"/>
+<area shape="rect" id="Node000005" href="$classuiTypedItemReal.html" title=" " alt="" coords="343,79,585,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,118,467,152,461,152,461,118"/>
+<area shape="rect" id="Node000006" href="$structuiItemBase.html" title=" " alt="" coords="416,5,512,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="467,44,467,79,461,79,461,44"/>
+</map>

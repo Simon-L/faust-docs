@@ -1,0 +1,13 @@
+<map id="vstToggleButton" name="vstToggleButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,257,149,283"/>
+<area shape="rect" id="Node000002" href="$classvstUIObject.html" title=" " alt="" coords="37,183,135,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,222,89,257,83,257,83,222"/>
+<area shape="rect" id="Node000003" href="$structMeta.html" title=" " alt="" coords="59,95,113,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,134,89,182,83,182,83,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,167,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="53,58,54,77,62,93,57,96,49,78,48,58"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="71,59,71,78,75,94,70,95,66,78,66,59"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="89,59,89,94,83,94,83,59"/>
+<area shape="poly" id="edge6_Node000003_Node000004" title=" " alt="" coords="106,59,106,78,102,95,97,94,101,78,101,59"/>
+<area shape="poly" id="edge7_Node000003_Node000004" title=" " alt="" coords="124,58,123,78,115,96,110,93,118,77,119,58"/>
+</map>

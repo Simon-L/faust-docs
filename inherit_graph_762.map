@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="57,203,158,228"/>
+<area shape="rect" id="Node000001" href="$classAAudioDirect.html" title=" " alt="" coords="303,55,410,80"/>
+<area shape="poly" id="edge743_Node000000_Node000001" title=" " alt="" coords="128,191,182,139,218,112,256,89,302,73,304,78,258,94,221,116,186,143,131,194"/>
+<area shape="rect" id="Node000002" href="$classStreamClosedReturnValues.html" title=" " alt="" coords="257,104,456,129"/>
+<area shape="poly" id="edge744_Node000000_Node000002" title=" " alt="" coords="141,194,194,165,256,138,293,127,295,132,258,143,196,170,143,198"/>
+<area shape="rect" id="Node000003" href="$classStreamFramesProcessed.html" title=" " alt="" coords="265,5,448,31"/>
+<area shape="poly" id="edge745_Node000000_Node000003" title=" " alt="" coords="121,189,143,155,173,115,212,74,256,40,280,28,283,33,259,44,215,78,178,118,147,158,125,192"/>
+<area shape="rect" id="Node000005" href="$classStreamOpen.html" title=" " alt="" coords="305,153,408,179"/>
+<area shape="poly" id="edge746_Node000000_Node000005" title=" " alt="" coords="172,200,305,173,306,179,173,205"/>
+<area shape="rect" id="Node000008" href="$classStreamStates.html" title=" " alt="" coords="301,203,412,228"/>
+<area shape="poly" id="edge749_Node000000_Node000008" title=" " alt="" coords="172,213,301,213,301,218,172,218"/>
+<area shape="rect" id="Node000009" href="$classTestLockFreeQueue.html" title=" " alt="" coords="283,252,431,277"/>
+<area shape="poly" id="edge750_Node000000_Node000009" title=" " alt="" coords="172,225,292,249,291,255,171,231"/>
+<area shape="rect" id="Node000010" href="$classTestStreamWaitState.html" title=" " alt="" coords="277,301,436,327"/>
+<area shape="poly" id="edge751_Node000000_Node000010" title=" " alt="" coords="144,232,197,260,258,286,299,299,297,304,256,291,195,265,142,237"/>
+<area shape="rect" id="Node000011" href="$classUtilityFunctions.html" title=" " alt="" coords="295,351,419,376"/>
+<area shape="poly" id="edge752_Node000000_Node000011" title=" " alt="" coords="132,236,186,287,221,313,258,336,295,349,293,354,256,340,218,318,183,291,128,240"/>
+<area shape="rect" id="Node000012" href="$classXRunBehaviour.html" title=" " alt="" coords="295,400,418,425"/>
+<area shape="poly" id="edge753_Node000000_Node000012" title=" " alt="" coords="125,238,147,272,178,312,215,351,259,385,296,401,294,406,256,390,212,355,174,315,143,275,121,241"/>
+<area shape="rect" id="Node000006" href="$classStreamOpenInput.html" title=" " alt="" coords="509,129,645,155"/>
+<area shape="poly" id="edge747_Node000005_Node000006" title=" " alt="" coords="421,156,509,147,510,152,422,162"/>
+<area shape="rect" id="Node000007" href="$classStreamOpenOutput.html" title=" " alt="" coords="504,179,651,204"/>
+<area shape="poly" id="edge748_Node000005_Node000007" title=" " alt="" coords="422,171,504,180,504,186,421,176"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,209,31"/>
+<area shape="poly" id="edge754_Node000004_Node000003" title=" " alt="" coords="223,15,265,15,265,21,223,21"/>
+</map>
