@@ -1,0 +1,15 @@
+<map id="BelaWidget" name="BelaWidget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,5,249,31"/>
+<area shape="rect" id="Node000002" href="$classBelaWidgetCheckBox.html" title=" " alt="" coords="44,79,207,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,42,139,80,136,77,176,38"/>
+<area shape="rect" id="Node000003" href="$classTrillWidget.html" title=" " alt="" coords="231,79,321,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,38,265,76,262,80,220,42"/>
+<area shape="rect" id="Node000004" href="$classTrillCraftWidget.html" title=" " alt="" coords="136,152,259,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,115,212,154,208,150,251,111"/>
+<area shape="rect" id="Node000007" href="$classTrillRingPosWidget.html" title=" " alt="" coords="283,152,426,177"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="301,111,344,150,340,154,297,115"/>
+<area shape="rect" id="Node000005" href="$classTrillCraftWidgetCheckBox.html" title=" " alt="" coords="5,225,192,251"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,187,116,227,113,223,169,183"/>
+<area shape="rect" id="Node000006" href="$classTrillCraftWidgetSlider.html" title=" " alt="" coords="217,225,375,251"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="226,183,281,223,278,227,222,187"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RtMidiOut" name="RtMidiOut">
+<area shape="rect" id="Node000001" title="A realtime MIDI output class." alt="" coords="5,79,92,104"/>
+<area shape="rect" id="Node000002" href="$classRtMidi.html" title="An abstract base class for realtime MIDI input/output." alt="" coords="17,5,81,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,44,51,79,46,79,46,44"/>
+</map>

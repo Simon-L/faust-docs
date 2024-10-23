@@ -1,0 +1,44 @@
+<map id="Meta" name="Meta">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,327,269,352"/>
+<area shape="rect" id="Node000003" href="$classJSONUIReal.html" title=" " alt="" coords="317,5,527,31"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="244,313,253,248,268,167,289,92,301,62,315,41,333,29,336,33,319,45,306,65,294,93,273,169,258,249,249,313"/>
+<area shape="rect" id="Node000005" href="$classAPIUI.html" title=" " alt="" coords="393,55,451,80"/>
+<area shape="poly" id="edge11_Node000001_Node000005" title=" " alt="" coords="241,313,244,265,255,205,277,144,294,116,316,91,333,78,353,70,393,64,393,70,355,76,336,83,319,95,298,119,282,146,260,207,249,266,246,313"/>
+<area shape="rect" id="Node000007" href="$classBelaUI.html" title=" " alt="" coords="389,104,455,129"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="243,312,249,274,262,227,283,180,298,159,316,140,332,129,351,121,389,114,390,120,353,126,335,133,319,144,302,162,288,183,267,229,254,275,248,313"/>
+<area shape="rect" id="Node000008" href="$classJSONUIReal.html" title=" " alt="" coords="342,153,502,179"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="247,312,270,250,289,217,316,189,340,175,343,180,319,193,294,220,274,253,252,314"/>
+<area shape="rect" id="Node000009" href="$structMY__Meta.html" title=" " alt="" coords="381,203,463,228"/>
+<area shape="poly" id="edge15_Node000001_Node000009" title=" " alt="" coords="253,313,279,274,296,255,316,238,347,224,380,216,381,221,349,229,319,243,299,259,283,278,258,316"/>
+<area shape="rect" id="Node000010" href="$structMax__Meta1.html" title=" " alt="" coords="373,252,471,277"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="268,316,316,288,371,270,373,275,318,292,271,321"/>
+<area shape="rect" id="Node000011" href="$structMax__Meta2.html" title=" " alt="" coords="373,301,471,327"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="283,331,372,318,373,323,283,336"/>
+<area shape="rect" id="Node000012" href="$structMax__Meta3.html" title=" " alt="" coords="373,351,471,376"/>
+<area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="283,342,373,354,372,359,283,347"/>
+<area shape="rect" id="Node000013" href="$structMeta1.html" title=" " alt="" coords="391,400,453,425"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="271,358,318,386,355,399,391,406,390,411,354,404,316,391,268,363"/>
+<area shape="rect" id="Node000014" href="$classMetaData.html" title=" " alt="" coords="379,449,465,475"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="258,363,283,401,299,420,319,436,348,449,379,456,378,461,346,454,316,440,296,424,278,404,253,366"/>
+<area shape="rect" id="Node000015" href="$structMidiMeta.html" title=" " alt="" coords="381,499,463,524"/>
+<area shape="poly" id="edge21_Node000001_Node000015" title=" " alt="" coords="252,365,274,426,293,458,319,485,349,500,381,507,380,513,347,505,316,489,289,462,269,429,247,366"/>
+<area shape="rect" id="Node000016" href="$structMyMeta.html" title=" " alt="" coords="385,548,459,573"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="248,366,254,404,267,450,288,496,302,517,319,535,334,545,350,551,385,558,384,563,349,556,331,549,316,539,298,520,283,498,262,451,249,405,243,366"/>
+<area shape="rect" id="Node000017" href="$structbt__meta.html" title=" " alt="" coords="384,597,460,623"/>
+<area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="246,366,249,413,260,472,282,533,298,560,319,584,333,594,350,601,384,608,383,613,348,606,331,599,316,588,294,563,277,535,255,474,244,414,240,366"/>
+<area shape="rect" id="Node000018" href="$classhttpdfaust_1_1jsonfaustui.html" title=" " alt="" coords="337,647,507,672"/>
+<area shape="poly" id="edge24_Node000001_Node000018" title=" " alt="" coords="249,365,258,430,273,510,294,585,306,614,319,633,339,647,336,651,315,637,301,617,289,587,268,511,253,430,244,366"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,319,167,359"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,370,113,385,132,394,153,399,175,399,196,394,215,385,229,370,237,351,242,353,233,373,218,389,198,399,176,404,152,404,130,399,110,389,95,374"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="105,366,139,379,178,381,214,371,227,363,236,351,240,354,231,366,217,376,179,386,138,385,103,371"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="124,360,153,363,184,363,211,358,231,350,233,355,213,364,184,368,153,369,124,365"/>
+<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="180,345,214,344,215,349,180,351"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="180,328,215,330,214,335,180,333"/>
+<area shape="poly" id="edge6_Node000001_Node000002" title=" " alt="" coords="124,313,153,310,184,311,213,315,233,324,231,329,211,320,184,316,153,315,124,319"/>
+<area shape="poly" id="edge7_Node000001_Node000002" title=" " alt="" coords="103,307,138,294,179,292,217,303,231,312,240,325,236,328,227,316,214,307,178,298,139,299,105,312"/>
+<area shape="poly" id="edge8_Node000001_Node000002" title=" " alt="" coords="95,305,110,290,130,279,152,274,176,274,198,279,218,290,233,305,242,326,237,328,229,308,215,294,196,284,175,280,153,280,132,284,113,294,99,309"/>
+<area shape="rect" id="Node000004" href="$structJSONUI.html" title=" " alt="" coords="600,5,668,31"/>
+<area shape="poly" id="edge10_Node000003_Node000004" title=" " alt="" coords="540,15,600,15,600,21,540,21"/>
+<area shape="rect" id="Node000006" href="$classEsp32SensorUI.html" title=" " alt="" coords="575,55,693,80"/>
+<area shape="poly" id="edge12_Node000005_Node000006" title=" " alt="" coords="464,65,574,65,574,70,464,70"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="BelaUI" name="BelaUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="208,272,273,297"/>
+<area shape="rect" id="Node000002" href="$classGenericUI.html" title=" " alt="" coords="151,197,237,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,233,235,270,231,273,207,236"/>
+<area shape="rect" id="Node000003" href="$structUI.html" title=" " alt="" coords="157,115,196,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,153,194,197,189,198,179,154"/>
+<area shape="rect" id="Node000004" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,40,170,113,166,117,109,44"/>
+<area shape="rect" id="Node000005" href="$classUiControlSet.html" title=" " alt="" coords="207,5,311,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="244,44,188,117,184,113,240,40"/>
+<area shape="rect" id="Node000006" href="$structMeta.html" title=" " alt="" coords="273,197,328,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="284,236,252,273,248,270,280,232"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="220,108,381,148"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="242,160,241,173,245,185,256,195,274,203,272,208,253,199,241,188,235,173,237,159"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="259,160,261,182,275,200,271,203,256,184,254,161"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="277,161,277,180,283,196,278,198,272,181,271,161"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="294,161,297,197,291,197,289,162"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="312,162,310,197,305,197,307,161"/>
+<area shape="poly" id="edge11_Node000006_Node000007" title=" " alt="" coords="330,161,329,181,323,198,318,196,324,180,325,161"/>
+<area shape="poly" id="edge12_Node000006_Node000007" title=" " alt="" coords="347,161,346,184,330,203,326,200,341,182,342,160"/>
+<area shape="poly" id="edge13_Node000006_Node000007" title=" " alt="" coords="365,159,366,173,360,188,348,199,329,208,327,203,345,195,356,185,361,173,359,160"/>
+</map>

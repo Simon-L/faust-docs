@@ -1,0 +1,22 @@
+<map id="uiComponent" name="uiComponent">
+<area shape="rect" id="Node000001" title="Intern class for all FAUST active or passive widgets." alt="" coords="108,420,217,445"/>
+<area shape="rect" id="Node000002" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="5,345,72,371"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,375,144,417,141,422,69,380"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,345,229,371"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,385,165,420,160,420,160,385"/>
+<area shape="rect" id="Node000004" href="$classuiItem.html" title=" " alt="" coords="253,345,317,371"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="255,380,184,422,181,417,253,375"/>
+<area shape="rect" id="Node000005" href="$classuiTypedItemReal.html" title=" " alt="" coords="53,271,296,296"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,302,269,343,266,347,203,306"/>
+<area shape="rect" id="Node000006" href="$structuiItemBase.html" title=" " alt="" coords="127,183,223,208"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="177,222,177,270,172,270,172,222"/>
+<area shape="rect" id="Node000007" href="$classGUI.html" title=" " alt="" coords="249,183,295,208"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="250,219,190,272,186,268,247,215"/>
+<area shape="rect" id="Node000008" href="$structUI.html" title=" " alt="" coords="283,108,322,133"/>
+<area shape="poly" id="edge10_Node000004_Node000008" title=" " alt="" coords="309,147,315,215,315,256,311,297,303,323,294,346,289,344,298,322,305,295,310,255,310,215,304,147"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="295,147,279,183,275,181,290,145"/>
+<area shape="rect" id="Node000009" href="$structUIReal.html" title=" " alt="" coords="131,5,309,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="240,39,295,106,291,110,236,43"/>
+<area shape="rect" id="Node000010" href="$classUiControlSet.html" title=" " alt="" coords="333,5,437,31"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="369,43,314,110,310,106,365,39"/>
+</map>

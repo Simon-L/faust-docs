@@ -1,0 +1,41 @@
+<map id="PathBuilder" name="PathBuilder">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,301,101,327"/>
+<area shape="rect" id="Node000002" href="$classJSONUIReal.html" title=" " alt="" coords="149,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,287,59,235,74,168,86,133,102,99,122,68,148,40,164,29,167,33,151,44,127,71,107,102,91,135,79,170,64,236,58,288"/>
+<area shape="rect" id="Node000004" href="$classAPIUI.html" title=" " alt="" coords="225,55,283,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="55,287,64,244,81,190,108,136,126,111,148,89,166,78,186,70,225,64,225,70,187,76,168,83,151,93,130,114,113,139,86,192,69,245,61,288"/>
+<area shape="rect" id="Node000006" href="$classAutodiffUI.html" title=" " alt="" coords="211,104,297,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="59,287,71,253,89,213,114,173,148,139,178,123,210,116,211,121,180,128,151,143,118,176,93,215,75,255,64,289"/>
+<area shape="rect" id="Node000007" href="$classFUI.html" title=" " alt="" coords="232,153,276,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="65,288,97,237,121,210,148,188,169,177,191,170,231,164,232,169,192,175,171,182,151,192,124,214,102,240,69,290"/>
+<area shape="rect" id="Node000008" href="$classGroupUI.html" title=" " alt="" coords="217,203,291,228"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="76,289,108,262,148,237,182,224,216,217,217,222,184,230,151,242,112,266,79,293"/>
+<area shape="rect" id="Node000009" href="$classJSONUIReal.html" title=" " alt="" coords="174,252,334,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="113,295,149,286,196,275,197,280,150,291,114,300"/>
+<area shape="rect" id="Node000010" href="$classJuceParameterUI.html" title=" " alt="" coords="189,301,319,327"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="116,311,188,311,188,317,116,317"/>
+<area shape="rect" id="Node000011" href="$structLayoutUI.html" title=" " alt="" coords="214,351,294,376"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="115,327,150,335,215,351,213,356,149,341,114,332"/>
+<area shape="rect" id="Node000012" href="$classMapUI.html" title=" " alt="" coords="222,400,286,425"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="79,334,112,361,150,385,187,398,222,406,221,411,185,403,148,390,109,365,76,338"/>
+<area shape="rect" id="Node000017" href="$classPrintUI.html" title=" " alt="" coords="221,449,287,475"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="69,337,102,387,124,413,151,434,186,450,221,457,220,462,184,455,148,439,121,417,98,391,65,340"/>
+<area shape="rect" id="Node000018" href="$classSavePathUI.html" title=" " alt="" coords="206,499,302,524"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="64,339,76,373,94,412,119,451,151,484,177,498,207,505,205,511,176,503,148,488,115,454,89,414,71,375,59,341"/>
+<area shape="rect" id="Node000019" href="$classhttpdClientUI.html" title=" " alt="" coords="200,548,308,573"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="61,340,69,383,86,436,113,489,130,514,151,535,174,548,200,555,199,560,172,553,148,539,126,517,108,492,81,438,64,384,55,341"/>
+<area shape="rect" id="Node000020" href="$classmspUI.html" title=" " alt="" coords="222,597,286,623"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="58,340,64,392,79,458,91,493,107,526,127,557,151,584,167,595,185,602,222,608,222,613,184,607,165,599,148,588,122,560,102,529,86,495,74,460,59,393,53,341"/>
+<area shape="rect" id="Node000003" href="$structJSONUI.html" title=" " alt="" coords="446,5,514,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,15,446,15,446,21,373,21"/>
+<area shape="rect" id="Node000005" href="$classEsp32SensorUI.html" title=" " alt="" coords="421,55,539,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="296,65,421,65,421,70,296,70"/>
+<area shape="rect" id="Node000013" href="$classControlSequenceUI.html" title=" " alt="" coords="407,325,553,351"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="299,402,358,385,382,373,406,360,436,348,438,353,408,364,384,377,360,390,300,407"/>
+<area shape="rect" id="Node000014" href="$structJuceStateUI.html" title=" " alt="" coords="431,375,529,400"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="300,405,431,390,431,395,300,410"/>
+<area shape="rect" id="Node000015" href="$structRandomControlUI.html" title=" " alt="" coords="411,424,549,449"/>
+<area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="300,415,411,427,411,432,299,420"/>
+<area shape="rect" id="Node000016" href="$structdsp__voice.html" title=" " alt="" coords="437,473,523,499"/>
+<area shape="poly" id="edge15_Node000012_Node000016" title=" " alt="" coords="300,418,360,434,384,446,408,458,440,471,439,476,406,463,382,451,358,439,299,423"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.faust.FaustActivity" name="com.faust.FaustActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,93,207,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,77,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,46,110,91,106,95,61,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,5,299,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,57,134,95,130,91,169,53"/>
+</map>

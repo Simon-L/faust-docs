@@ -1,0 +1,9 @@
+<map id="RosCI" name="RosCI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,183,206,208"/>
+<area shape="rect" id="Node000002" href="$structUI.html" title=" " alt="" coords="157,108,196,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,148,179,182,174,182,174,148"/>
+<area shape="rect" id="Node000003" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,39,169,106,165,110,110,43"/>
+<area shape="rect" id="Node000004" href="$classUiControlSet.html" title=" " alt="" coords="207,5,311,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,43,188,110,184,106,239,39"/>
+</map>

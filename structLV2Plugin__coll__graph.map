@@ -1,0 +1,38 @@
+<map id="LV2Plugin" name="LV2Plugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="310,299,395,324"/>
+<area shape="rect" id="Node000002" href="$classmydsp.html" title=" " alt="" coords="19,211,86,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,235,314,296,312,301,99,241"/>
+<area shape="rect" id="Node000003" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="30,115,75,141"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="39,154,38,184,43,210,38,211,32,184,34,154"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="55,154,55,211,50,211,50,154"/>
+<area shape="poly" id="edge5_Node000002_Node000003" title=" " alt="" coords="71,154,73,184,68,211,62,210,68,184,66,154"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="90,117,98,120,102,128,93,138,76,140,76,134,91,134,97,128,95,124,88,122"/>
+<area shape="rect" id="Node000004" href="$classLV2UI.html" title=" " alt="" coords="195,211,254,236"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="255,242,337,296,334,301,252,246"/>
+<area shape="rect" id="Node000005" href="$structUI.html" title=" " alt="" coords="157,115,196,141"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="183,152,215,209,210,212,179,155"/>
+<area shape="poly" id="edge10_Node000004_Node000005" title=" " alt="" coords="199,151,227,209,223,212,194,153"/>
+<area shape="rect" id="Node000006" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="114,40,170,113,166,117,109,44"/>
+<area shape="rect" id="Node000007" href="$classUiControlSet.html" title=" " alt="" coords="207,5,311,31"/>
+<area shape="poly" id="edge9_Node000005_Node000007" title=" " alt="" coords="244,44,188,117,184,113,240,40"/>
+<area shape="rect" id="Node000008" href="$structui__elem__t.html" title=" " alt="" coords="220,115,307,141"/>
+<area shape="poly" id="edge11_Node000004_Node000008" title=" " alt="" coords="256,154,232,212,227,210,251,152"/>
+<area shape="rect" id="Node000009" href="$structVoiceData.html" title=" " alt="" coords="309,211,397,236"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="355,250,355,298,350,298,350,250"/>
+<area shape="rect" id="Node000010" href="$structNoteInfo.html" title=" " alt="" coords="331,115,409,141"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="368,154,357,211,352,210,363,153"/>
+<area shape="rect" id="Node000011" href="$structMeta.html" title=" " alt="" coords="495,211,549,236"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="488,245,377,301,374,296,486,240"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="441,108,603,148"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="465,160,462,176,466,192,477,206,496,216,493,220,473,210,461,194,456,176,460,159"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="482,161,480,175,481,189,487,201,496,212,492,215,482,204,476,190,474,175,477,160"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="499,161,498,187,506,209,501,211,493,188,494,161"/>
+<area shape="poly" id="edge18_Node000011_Node000012" title=" " alt="" coords="516,161,518,210,513,210,511,162"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="533,162,531,210,526,210,528,161"/>
+<area shape="poly" id="edge20_Node000011_Node000012" title=" " alt="" coords="550,161,551,188,543,211,538,209,546,187,545,161"/>
+<area shape="poly" id="edge21_Node000011_Node000012" title=" " alt="" coords="567,160,570,175,568,190,562,204,552,215,548,212,557,201,563,189,564,175,562,161"/>
+<area shape="poly" id="edge22_Node000011_Node000012" title=" " alt="" coords="584,159,588,176,583,194,571,210,551,220,548,216,567,206,578,192,582,176,579,160"/>
+<area shape="rect" id="Node000013" href="$structMTSTunings.html" title=" " alt="" coords="574,211,673,236"/>
+<area shape="poly" id="edge23_Node000001_Node000013" title=" " alt="" coords="584,244,492,277,396,303,395,298,491,272,582,239"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="JSONUI" name="JSONUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,240,253,265"/>
+<area shape="rect" id="Node000002" href="$classJSONUIReal.html" title=" " alt="" coords="41,167,250,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,200,209,238,205,242,165,204"/>
+<area shape="rect" id="Node000003" href="$classPathBuilder.html" title=" " alt="" coords="5,93,101,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,125,132,164,129,169,77,129"/>
+<area shape="rect" id="Node000004" href="$structMeta.html" title=" " alt="" coords="126,93,181,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="153,133,149,167,144,166,148,132"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="73,5,234,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,58,93,70,98,81,109,91,127,99,125,104,106,96,94,84,88,71,89,57"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="112,58,113,79,128,96,123,99,109,81,106,58"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="129,59,130,76,136,92,131,94,125,77,124,59"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="147,59,149,93,144,93,142,59"/>
+<area shape="poly" id="edge8_Node000004_Node000005" title=" " alt="" coords="165,59,163,93,157,93,160,59"/>
+<area shape="poly" id="edge9_Node000004_Node000005" title=" " alt="" coords="183,59,182,77,176,94,171,92,177,76,177,59"/>
+<area shape="poly" id="edge10_Node000004_Node000005" title=" " alt="" coords="200,58,198,81,183,99,179,96,193,79,195,58"/>
+<area shape="poly" id="edge11_Node000004_Node000005" title=" " alt="" coords="218,57,219,71,213,84,200,96,182,104,180,99,197,91,208,81,213,70,212,58"/>
+<area shape="rect" id="Node000006" href="$structUIReal.html" title=" " alt="" coords="221,93,349,119"/>
+<area shape="poly" id="edge12_Node000002_Node000006" title=" " alt="" coords="252,127,169,169,167,164,249,122"/>
+<area shape="rect" id="Node000007" href="$structUI.html" title=" " alt="" coords="274,167,313,192"/>
+<area shape="poly" id="edge14_Node000007_Node000006" title=" " alt="" coords="291,132,295,166,289,167,286,133"/>
+<area shape="poly" id="edge13_Node000001_Node000007" title=" " alt="" coords="273,203,233,242,229,238,270,199"/>
+</map>

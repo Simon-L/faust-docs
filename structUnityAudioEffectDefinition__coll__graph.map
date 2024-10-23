@@ -1,0 +1,10 @@
+<map id="UnityAudioEffectDefinition" name="UnityAudioEffectDefinition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="364,196,558,221"/>
+<area shape="rect" id="Node000002" href="$structUnityAudioEffectState.html" title=" " alt="" coords="172,5,337,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,34,359,53,369,68,374,84,373,113,372,142,375,156,384,170,400,184,418,194,416,198,397,188,380,174,370,158,366,142,368,113,368,84,364,71,355,57,330,38"/>
+<area shape="rect" id="Node000003" href="$structUnityAudioSpatializerData.html" title=" " alt="" coords="78,196,273,221"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="158,25,81,35,51,44,32,57,14,85,8,113,14,141,32,170,55,183,92,193,91,199,53,188,28,174,9,143,3,113,9,83,28,53,49,40,80,30,157,20"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,186,223,171,240,133,249,94,252,31,257,31,254,95,245,135,227,173,212,190"/>
+<area shape="rect" id="Node000004" href="$structUnityAudioParameterDefinition.html" title=" " alt="" coords="424,5,648,31"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="539,45,533,106,524,141,508,173,497,187,483,198,480,194,493,183,504,171,519,139,527,105,533,44"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Faust" name="Faust">
+<area shape="rect" id="Node000001" title="Alchemy DSP." alt="" coords="286,308,342,333"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,189,111,214"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,219,143,250,207,282,287,309,285,314,205,286,141,255,86,223"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="135,189,184,214"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,220,268,282,300,306,297,310,264,286,183,225"/>
+<area shape="rect" id="Node000004" href="$classFAUSTCLASS.html" title=" " alt="" coords="209,189,313,214"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,227,290,283,306,306,301,309,285,285,264,229"/>
+<area shape="rect" id="Node000005" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="347,110,393,135"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="344,146,279,191,276,186,341,141"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="407,114,415,116,419,123,410,131,393,132,393,127,409,126,414,122,412,121,406,119"/>
+<area shape="rect" id="Node000007" href="$classmydsp.html" title=" " alt="" coords="337,189,403,214"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="356,149,355,170,359,188,354,189,350,170,350,149"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="373,149,373,188,367,188,367,149"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="390,149,390,170,386,189,381,188,385,170,384,149"/>
+<area shape="rect" id="Node000006" href="$structControl.html" title=" " alt="" coords="427,189,497,214"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="449,227,425,257,394,286,369,301,343,313,341,308,366,297,391,282,421,253,445,223"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="512,193,523,201,515,209,497,211,497,206,513,204,518,201,509,198"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="361,228,334,285,322,309,317,306,329,283,356,225"/>
+<area shape="rect" id="Node000008" href="$classActionScriptUI.html" title=" " alt="" coords="690,189,805,214"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="714,223,641,256,553,287,495,300,437,310,342,320,342,315,436,305,494,295,552,281,639,251,712,218"/>
+<area shape="rect" id="Node000009" href="$structUI.html" title=" " alt="" coords="728,110,767,135"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="750,149,750,188,745,188,745,149"/>
+<area shape="rect" id="Node000010" href="$structUIReal.html" title=" " alt="" coords="576,5,753,31"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="685,40,740,108,736,111,681,43"/>
+<area shape="rect" id="Node000011" href="$classUiControlSet.html" title=" " alt="" coords="778,5,882,31"/>
+<area shape="poly" id="edge15_Node000009_Node000011" title=" " alt="" coords="814,43,759,111,755,108,810,40"/>
+</map>

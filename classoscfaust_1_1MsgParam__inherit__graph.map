@@ -1,0 +1,7 @@
+<map id="oscfaust::MsgParam&lt; T &gt;" name="oscfaust::MsgParam&lt; T &gt;">
+<area shape="rect" id="Node000001" title="template for a message parameter" alt="" coords="5,152,196,177"/>
+<area shape="rect" id="Node000002" href="$classoscfaust_1_1baseparam.html" title="base class of a message parameters" alt="" coords="21,79,180,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,118,103,152,98,152,98,118"/>
+<area shape="rect" id="Node000003" href="$classoscfaust_1_1smartable.html" title="the base class for smart pointers implementation" alt="" coords="25,5,176,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,44,103,79,98,79,98,44"/>
+</map>

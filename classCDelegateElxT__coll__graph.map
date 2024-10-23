@@ -1,0 +1,12 @@
+<map id="CDelegateElxT&lt; CHART &gt;" name="CDelegateElxT&lt; CHART &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,197,193"/>
+<area shape="rect" id="Node000002" href="$classElxInterface.html" title=" " alt="" coords="23,80,123,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,118,93,167,88,168,71,120"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="92,117,106,167,101,168,87,119"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="96,116,103,128,106,149,106,168,100,168,101,150,97,130,91,118"/>
+<area shape="rect" id="Node000003" href="$classCBufferT.html" title=" " alt="" coords="148,80,300,105"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="203,116,164,146,125,170,122,165,161,142,199,112"/>
+<area shape="rect" id="Node000004" href="$classCBufferRefT.html" title=" " alt="" coords="148,5,300,31"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="218,44,220,80,214,80,213,45"/>
+<area shape="poly" id="edge6_Node000003_Node000004" title=" " alt="" coords="235,45,234,80,228,80,230,44"/>
+</map>

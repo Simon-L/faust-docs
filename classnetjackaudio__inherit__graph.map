@@ -1,0 +1,9 @@
+<map id="netjackaudio" name="netjackaudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="129,79,234,104"/>
+<area shape="rect" id="Node000003" href="$classnetjackaudio__control.html" title=" " alt="" coords="5,152,163,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,114,101,154,98,150,153,110"/>
+<area shape="rect" id="Node000004" href="$classnetjackaudio__midicontrol.html" title=" " alt="" coords="187,152,373,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,110,265,150,262,154,206,114"/>
+<area shape="rect" id="Node000002" href="$classaudio.html" title=" " alt="" coords="152,5,211,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,44,184,79,179,79,179,44"/>
+</map>

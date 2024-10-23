@@ -1,0 +1,21 @@
+<map id="oscfaust::FaustNode&lt; C &gt;" name="oscfaust::FaustNode&lt; C &gt;">
+<area shape="rect" id="Node000001" title="a faust node is a terminal node and represents a faust parameter controler" alt="" coords="290,345,482,371"/>
+<area shape="rect" id="Node000002" href="$classoscfaust_1_1MessageDriven.html" title="a base class for objects accepting OSC messages" alt="" coords="193,271,379,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,302,371,343,368,347,312,306"/>
+<area shape="rect" id="Node000003" href="$classoscfaust_1_1MessageProcessor.html" title="an abstract class for objects able to process OSC messages" alt="" coords="5,183,212,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,212,263,268,261,273,143,216"/>
+<area shape="rect" id="Node000004" href="$classoscfaust_1_1smartable.html" title="the base class for smart pointers implementation" alt="" coords="236,183,387,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="307,222,292,271,287,269,301,221"/>
+<area shape="rect" id="Node000005" href="$classuiTypedItemReal.html" title=" " alt="" coords="403,271,574,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="462,306,404,347,401,343,459,302"/>
+<area shape="rect" id="Node000006" href="$structuiItemBase.html" title=" " alt="" coords="417,183,513,208"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="474,221,488,269,483,271,469,222"/>
+<area shape="rect" id="Node000007" href="$classGUI.html" title=" " alt="" coords="537,183,584,208"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="544,220,501,272,497,268,540,217"/>
+<area shape="rect" id="Node000008" href="$structUI.html" title=" " alt="" coords="541,108,580,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="563,148,563,182,558,182,558,148"/>
+<area shape="rect" id="Node000009" href="$structUIReal.html" title=" " alt="" coords="389,5,567,31"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="498,39,553,106,549,110,494,43"/>
+<area shape="rect" id="Node000010" href="$classUiControlSet.html" title=" " alt="" coords="591,5,695,31"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="627,43,572,110,568,106,623,39"/>
+</map>

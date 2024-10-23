@@ -1,0 +1,17 @@
+<map id="architecture/faust/dsp/dsp&#45;combiner.h" name="architecture/faust/dsp/dsp&#45;combiner.h">
+<area shape="rect" id="Node000001" title="DSP Combiner Library." alt="" coords="185,5,338,45"/>
+<area shape="rect" id="Node000002" href="$autodiff_8h_source.html" title=" " alt="" coords="5,93,160,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,54,123,96,121,91,209,49"/>
+<area shape="rect" id="Node000003" href="$autodiffVerifier_8h_source.html" title=" " alt="" coords="184,93,339,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,59,264,93,259,93,259,59"/>
+<area shape="rect" id="Node000004" href="$poly-dsp_8h_source.html" title=" " alt="" coords="363,93,501,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="312,49,396,91,393,96,310,54"/>
+<area shape="rect" id="Node000005" href="$faust-poly-engine_8h_source.html" title=" " alt="" coords="30,181,210,221"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="351,140,189,184,188,179,350,134"/>
+<area shape="rect" id="Node000006" href="$poly-interpreter-dsp_8h_source.html" title=" " alt="" coords="235,181,429,221"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="401,144,356,183,352,179,398,140"/>
+<area shape="rect" id="Node000007" href="$poly-llvm-dsp_8h_source.html" title=" " alt="" coords="453,181,608,221"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="466,140,511,179,507,183,462,144"/>
+<area shape="rect" id="Node000008" href="$poly-wasm-dsp_8h_source.html" title=" " alt="" coords="632,181,797,221"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="508,135,654,179,652,184,506,140"/>
+</map>

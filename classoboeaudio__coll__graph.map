@@ -1,0 +1,12 @@
+<map id="oboeaudio" name="oboeaudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,112,283,137"/>
+<area shape="rect" id="Node000002" href="$classaudio.html" title=" " alt="" coords="5,7,64,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,36,215,109,213,114,68,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="88,7,291,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,44,234,111,229,113,198,46"/>
+<area shape="rect" id="Node000004" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="315,7,360,33"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,45,251,114,247,110,314,41"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="375,8,383,12,387,20,378,31,361,32,360,27,376,26,381,20,379,16,373,13"/>
+<area shape="rect" id="Node000005" href="$classAudioChannels.html" title=" " alt="" coords="442,7,561,33"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="464,41,342,90,274,114,272,109,340,86,462,36"/>
+</map>

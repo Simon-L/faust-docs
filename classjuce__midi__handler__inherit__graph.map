@@ -1,0 +1,11 @@
+<map id="juce_midi_handler" name="juce_midi_handler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,152,155,177"/>
+<area shape="rect" id="Node000005" href="$classjuce__midi.html" title=" " alt="" coords="41,225,127,251"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="87,191,87,225,81,225,81,191"/>
+<area shape="rect" id="Node000002" href="$classmidi__handler.html" title=" " alt="" coords="31,79,137,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,118,87,152,81,152,81,118"/>
+<area shape="rect" id="Node000003" href="$classmidi.html" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,40,77,77,73,80,45,43"/>
+<area shape="rect" id="Node000004" href="$structmidi__interface.html" title=" " alt="" coords="81,5,197,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="123,43,95,80,91,77,119,40"/>
+</map>

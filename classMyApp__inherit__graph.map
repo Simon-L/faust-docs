@@ -1,0 +1,7 @@
+<map id="MyApp" name="MyApp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,72,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,72,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="24,44,24,62,28,78,22,79,18,63,19,44"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="41,44,41,79,36,79,36,44"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="59,44,59,63,55,79,50,78,54,62,53,44"/>
+</map>

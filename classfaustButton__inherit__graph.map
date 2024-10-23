@@ -1,0 +1,7 @@
+<map id="faustButton" name="faustButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,104,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="13,5,97,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="40,44,40,62,44,78,38,79,34,63,35,44"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="57,44,57,79,52,79,52,44"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="75,44,75,63,71,79,66,78,70,62,69,44"/>
+</map>

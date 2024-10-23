@@ -1,0 +1,17 @@
+<map id="CRangeElxT&lt; CHART &gt;" name="CRangeElxT&lt; CHART &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,196,180,221"/>
+<area shape="rect" id="Node000002" href="$classElxInterface.html" title=" " alt="" coords="15,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,45,74,124,89,195,84,196,69,125,59,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="77,44,92,124,98,195,93,196,87,124,72,45"/>
+<area shape="rect" id="Node000005" href="$classCBufferT.html" title=" " alt="" coords="114,93,311,119"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="94,36,142,67,189,91,186,96,139,72,91,41"/>
+<area shape="rect" id="Node000003" href="$classCBufferT.html" title=" " alt="" coords="335,93,487,119"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="375,127,317,151,251,175,154,199,153,193,249,169,315,146,373,122"/>
+<area shape="rect" id="Node000004" href="$classCBufferRefT.html" title=" " alt="" coords="335,5,487,31"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="406,44,408,93,402,93,400,44"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="422,44,420,93,415,93,417,44"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="190,129,108,198,105,194,187,125"/>
+<area shape="rect" id="Node000006" href="$classCBufferRefT.html" title=" " alt="" coords="149,5,301,31"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="216,44,211,93,205,93,210,44"/>
+<area shape="poly" id="edge8_Node000005_Node000006" title=" " alt="" coords="232,45,223,93,218,92,227,44"/>
+</map>

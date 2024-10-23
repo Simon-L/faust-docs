@@ -1,0 +1,48 @@
+<map id="uiSlider" name="uiSlider">
+<area shape="rect" id="Node000001" title="Intern class for all kind of sliders." alt="" coords="505,521,575,547"/>
+<area shape="rect" id="Node000002" href="$classuiComponent.html" title="Intern class for all FAUST active or passive widgets." alt="" coords="104,433,213,459"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,459,505,522,504,527,223,464"/>
+<area shape="rect" id="Node000003" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="5,345,72,371"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,377,144,431,141,435,65,381"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,345,229,371"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="164,385,162,433,157,433,159,384"/>
+<area shape="rect" id="Node000005" href="$classuiItem.html" title=" " alt="" coords="257,345,321,371"/>
+<area shape="poly" id="edge16_Node000001_Node000005" title=" " alt="" coords="328,374,378,399,430,431,488,478,531,519,527,523,485,482,426,436,375,404,326,379"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="262,380,178,435,175,431,259,376"/>
+<area shape="rect" id="Node000016" href="$classuiCocoaItem.html" title=" " alt="" coords="237,433,341,459"/>
+<area shape="poly" id="edge19_Node000016_Node000005" title=" " alt="" coords="292,385,292,433,287,433,287,385"/>
+<area shape="rect" id="Node000006" href="$classuiTypedItemReal.html" title=" " alt="" coords="57,271,300,296"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="210,302,273,343,270,347,207,306"/>
+<area shape="rect" id="Node000007" href="$structuiItemBase.html" title=" " alt="" coords="131,183,227,208"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="181,222,181,270,176,270,176,222"/>
+<area shape="rect" id="Node000008" href="$classGUI.html" title=" " alt="" coords="253,183,299,208"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="254,219,194,272,190,268,251,215"/>
+<area shape="rect" id="Node000009" href="$structUI.html" title=" " alt="" coords="287,108,326,133"/>
+<area shape="poly" id="edge11_Node000005_Node000009" title=" " alt="" coords="313,147,319,215,319,256,315,297,307,323,298,346,293,344,302,322,309,295,314,255,314,215,308,147"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="299,147,283,183,279,181,294,145"/>
+<area shape="rect" id="Node000010" href="$structUIReal.html" title=" " alt="" coords="135,5,313,31"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="244,39,299,106,295,110,240,43"/>
+<area shape="rect" id="Node000011" href="$classUiControlSet.html" title=" " alt="" coords="337,5,441,31"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="373,43,318,110,314,106,369,39"/>
+<area shape="rect" id="Node000012" href="$structuiConverter.html" title=" " alt="" coords="491,433,589,459"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="534,472,536,521,531,521,529,472"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="551,472,549,521,544,521,546,472"/>
+<area shape="rect" id="Node000013" href="$classValueConverter.html" title=" " alt="" coords="479,345,601,371"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="543,385,543,433,537,433,537,385"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="613,433,768,459"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="660,468,562,523,559,519,657,463"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="792,433,867,459"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="779,465,576,525,575,520,778,460"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="336,461,436,495,507,519,505,524,434,500,334,466"/>
+<area shape="poly" id="edge20_Node000016_Node000016" title=" " alt="" coords="356,437,368,446,360,454,342,457,341,451,357,449,363,446,354,442"/>
+<area shape="rect" id="Node000017" href="$interfaceFISlider.html" title=" " alt="" coords="891,433,962,459"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="878,461,576,528,575,523,877,456"/>
+<area shape="rect" id="Node000018" href="$interfaceFIResponder.html" title=" " alt="" coords="829,345,931,371"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="895,381,923,432,918,434,890,384"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="839,271,921,296"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="883,310,883,345,877,345,877,310"/>
+<area shape="rect" id="Node000020" href="$interfaceFIHint.html" title=" " alt="" coords="956,345,1017,371"/>
+<area shape="poly" id="edge24_Node000017_Node000020" title=" " alt="" coords="973,384,937,434,933,431,968,381"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="953,271,1021,296"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="989,310,989,345,984,345,984,310"/>
+</map>

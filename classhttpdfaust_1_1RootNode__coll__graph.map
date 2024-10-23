@@ -1,0 +1,9 @@
+<map id="httpdfaust::RootNode" name="httpdfaust::RootNode">
+<area shape="rect" id="Node000001" title="a faust program root node" alt="" coords="141,152,302,177"/>
+<area shape="rect" id="Node000002" href="$classhttpdfaust_1_1MessageDriven.html" title="a base class for objects accepting messages" alt="" coords="122,79,321,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,118,224,152,219,152,219,118"/>
+<area shape="rect" id="Node000003" href="$classhttpdfaust_1_1MessageProcessor.html" title="an abstract class for objects able to process OSC messages" alt="" coords="5,5,224,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,36,205,76,202,81,142,40"/>
+<area shape="rect" id="Node000004" href="$classhttpdfaust_1_1smartable.html" title="the base class for smart pointers implementation" alt="" coords="248,5,411,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="302,40,240,81,238,76,299,36"/>
+</map>

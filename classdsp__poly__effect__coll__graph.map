@@ -1,0 +1,15 @@
+<map id="dsp_poly_effect" name="dsp_poly_effect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,247,231,272"/>
+<area shape="rect" id="Node000002" href="$classdsp__poly.html" title=" " alt="" coords="129,172,209,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,212,172,246,167,246,167,212"/>
+<area shape="rect" id="Node000003" href="$classdecorator__dsp.html" title=" " alt="" coords="5,97,120,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,128,154,170,151,174,90,133"/>
+<area shape="rect" id="Node000004" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="40,7,85,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="63,47,63,73,64,97,59,97,57,73,58,47"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="65,46,65,97,60,97,60,46"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="100,10,108,13,112,20,103,30,86,31,86,25,101,25,107,20,105,17,98,15"/>
+<area shape="rect" id="Node000005" href="$classmidi.html" title=" " alt="" coords="144,97,195,123"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="172,137,172,172,167,172,167,137"/>
+<area shape="rect" id="Node000006" href="$structJSONControl.html" title=" " alt="" coords="219,97,320,123"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="244,133,187,174,184,169,241,129"/>
+</map>

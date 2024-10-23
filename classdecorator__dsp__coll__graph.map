@@ -1,0 +1,7 @@
+<map id="decorator_dsp" name="decorator_dsp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,120,123"/>
+<area shape="rect" id="Node000002" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="40,7,85,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,47,63,73,64,97,59,97,57,73,58,47"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="65,46,65,97,60,97,60,46"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="100,10,108,13,112,20,103,30,86,31,86,25,101,25,107,20,105,17,98,15"/>
+</map>

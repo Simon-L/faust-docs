@@ -1,0 +1,9 @@
+<map id="midi_handler" name="midi_handler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="85,93,192,119"/>
+<area shape="rect" id="Node000002" href="$classmidi.html" title=" " alt="" coords="5,5,56,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,37,126,91,122,95,54,41"/>
+<area shape="rect" id="Node000003" href="$structmidi__interface.html" title=" " alt="" coords="81,5,197,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,45,141,93,136,93,136,45"/>
+<area shape="rect" id="Node000004" href="$classMidiNRPN.html" title=" " alt="" coords="221,5,307,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,41,157,95,154,91,234,36"/>
+</map>

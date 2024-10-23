@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="69,76,141,101"/>
+<area shape="rect" id="Node000001" href="$classcom_1_1faust_1_1FaustActivity.html" title=" " alt="" coords="282,153,457,179"/>
+<area shape="poly" id="edge38_Node000000_Node000001" title=" " alt="" coords="151,104,253,138,303,151,302,156,251,143,150,109"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1faust_1_1MultiActivity.html" title=" " alt="" coords="282,5,457,31"/>
+<area shape="poly" id="edge39_Node000000_Node000005" title=" " alt="" coords="153,69,251,39,300,28,301,33,253,45,155,75"/>
+<area shape="rect" id="Node000006" href="$classcom_1_1faust_1_1MultiKeyboardActivity.html" title=" " alt="" coords="252,55,487,80"/>
+<area shape="poly" id="edge40_Node000000_Node000006" title=" " alt="" coords="154,82,251,74,252,79,155,87"/>
+<area shape="rect" id="Node000007" href="$classcom_1_1faust_1_1PianoActivity.html" title=" " alt="" coords="281,104,458,129"/>
+<area shape="poly" id="edge41_Node000000_Node000007" title=" " alt="" coords="154,91,281,105,280,110,154,96"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="31,211,179,236"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1ccrma_1_1faust_1_1MainActivity.html" title=" " alt="" coords="261,207,478,232"/>
+<area shape="poly" id="edge42_Node000004_Node000003" title=" " alt="" coords="192,219,261,218,261,224,192,225"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,146,204,186"/>
+<area shape="poly" id="edge44_Node000002_Node000001" title=" " alt="" coords="218,163,282,163,282,169,218,169"/>
+<area shape="poly" id="edge43_Node000002_Node000003" title=" " alt="" coords="218,186,306,204,305,209,217,191"/>
+</map>

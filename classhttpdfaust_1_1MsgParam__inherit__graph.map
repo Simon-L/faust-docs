@@ -1,0 +1,7 @@
+<map id="httpdfaust::MsgParam&lt; T &gt;" name="httpdfaust::MsgParam&lt; T &gt;">
+<area shape="rect" id="Node000001" title="template for a message parameter" alt="" coords="5,152,208,177"/>
+<area shape="rect" id="Node000002" href="$classhttpdfaust_1_1baseparam.html" title="base class of a message parameters" alt="" coords="21,79,192,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,118,109,152,104,152,104,118"/>
+<area shape="rect" id="Node000003" href="$classhttpdfaust_1_1smartable.html" title="the base class for smart pointers implementation" alt="" coords="25,5,188,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,44,109,79,104,79,104,44"/>
+</map>

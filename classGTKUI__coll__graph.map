@@ -1,0 +1,15 @@
+<map id="GTKUI" name="GTKUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,257,244,283"/>
+<area shape="rect" id="Node000002" href="$classGUI.html" title=" " alt="" coords="227,183,273,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,222,221,258,216,256,235,219"/>
+<area shape="rect" id="Node000003" href="$structUI.html" title=" " alt="" coords="157,108,196,133"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="178,146,191,205,207,256,202,258,186,206,173,147"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="192,145,208,204,218,257,212,258,203,205,187,147"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,141,240,180,236,184,197,145"/>
+<area shape="rect" id="Node000004" href="$structUIReal.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,39,169,106,165,110,110,43"/>
+<area shape="rect" id="Node000005" href="$classUiControlSet.html" title=" " alt="" coords="207,5,311,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="243,43,188,110,184,106,239,39"/>
+<area shape="rect" id="Node000006" href="$classMetaDataUI.html" title=" " alt="" coords="297,183,397,208"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="315,217,236,259,233,255,313,212"/>
+</map>

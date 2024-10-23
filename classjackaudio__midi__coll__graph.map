@@ -1,0 +1,22 @@
+<map id="jackaudio_midi" name="jackaudio_midi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,260,248,285"/>
+<area shape="rect" id="Node000002" href="$classjackaudio.html" title=" " alt="" coords="69,185,153,211"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,218,177,258,174,262,131,222"/>
+<area shape="rect" id="Node000003" href="$classaudio.html" title=" " alt="" coords="5,95,64,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,129,102,183,98,187,51,133"/>
+<area shape="rect" id="Node000004" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="88,95,133,121"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="113,134,113,185,108,185,108,134"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="148,98,156,101,160,108,151,118,134,119,134,113,149,113,155,108,153,105,146,103"/>
+<area shape="rect" id="Node000005" href="$classjack__midi.html" title=" " alt="" coords="225,185,311,211"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="247,222,203,262,199,258,243,218"/>
+<area shape="rect" id="Node000006" href="$classmidi__handler.html" title=" " alt="" coords="215,95,321,121"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="271,134,271,185,265,185,265,134"/>
+<area shape="rect" id="Node000007" href="$classmidi.html" title=" " alt="" coords="135,5,185,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="187,37,256,93,252,97,183,42"/>
+<area shape="rect" id="Node000008" href="$structmidi__interface.html" title=" " alt="" coords="210,5,326,31"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="271,44,271,95,265,95,265,44"/>
+<area shape="rect" id="Node000009" href="$classMidiNRPN.html" title=" " alt="" coords="350,5,437,31"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="367,41,286,97,283,93,364,36"/>
+<area shape="rect" id="Node000010" href="$structringbuffer__t.html" title=" " alt="" coords="346,95,443,121"/>
+<area shape="poly" id="edge10_Node000005_Node000010" title=" " alt="" coords="369,131,286,187,283,183,366,126"/>
+</map>

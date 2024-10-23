@@ -1,0 +1,7 @@
+<map id="httpdfaust::jsongroup" name="httpdfaust::jsongroup">
+<area shape="rect" id="Node000001" title="a faust group is a terminal node and represents a faust parameter controler" alt="" coords="6,152,167,177"/>
+<area shape="rect" id="Node000002" href="$classhttpdfaust_1_1jsonnode.html" title="a faust node is a terminal node and represents a faust parameter controler" alt="" coords="9,79,165,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,118,89,152,84,152,84,118"/>
+<area shape="rect" id="Node000003" href="$classhttpdfaust_1_1smartable.html" title="the base class for smart pointers implementation" alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,44,89,79,84,79,84,44"/>
+</map>

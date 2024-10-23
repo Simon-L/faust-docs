@@ -1,0 +1,20 @@
+<map id="uiMenu" name="uiMenu">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,299,378,324"/>
+<area shape="rect" id="Node000002" href="$classuiComponent.html" title="Intern class for all FAUST active or passive widgets." alt="" coords="123,225,232,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,254,317,296,315,301,215,258"/>
+<area shape="rect" id="Node000003" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,181,156,223,153,227,72,186"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,152,229,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="170,190,178,225,172,226,165,191"/>
+<area shape="rect" id="Node000005" href="$classuiItem.html" title=" " alt="" coords="253,152,317,177"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="290,190,296,219,305,250,319,276,335,297,331,300,315,279,300,252,290,221,285,191"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="258,187,196,227,194,223,255,183"/>
+<area shape="rect" id="Node000006" href="$classuiTypedItemReal.html" title=" " alt="" coords="164,79,407,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="288,118,288,152,283,152,283,118"/>
+<area shape="rect" id="Node000007" href="$structuiItemBase.html" title=" " alt="" coords="237,5,333,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="288,44,288,79,283,79,283,44"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="315,225,503,251"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="391,263,355,300,352,297,387,259"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="527,225,630,251"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="528,257,379,302,377,297,527,252"/>
+</map>

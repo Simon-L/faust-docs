@@ -1,0 +1,25 @@
+<map id="LayoutUI::UIItem" name="LayoutUI::UIItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,179,349,204"/>
+<area shape="rect" id="Node000003" href="$structLayoutUI_1_1Button.html" title=" " alt="" coords="417,5,548,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,165,334,103,363,70,396,41,421,28,423,33,399,46,366,73,339,106,299,168"/>
+<area shape="rect" id="Node000004" href="$structLayoutUI_1_1CheckButton.html" title=" " alt="" coords="397,55,568,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="303,167,344,128,396,90,426,78,428,83,399,95,347,132,307,170"/>
+<area shape="rect" id="Node000005" href="$structLayoutUI_1_1Group.html" title=" " alt="" coords="419,104,546,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="323,170,396,140,435,127,437,132,398,144,325,175"/>
+<area shape="rect" id="Node000008" href="$structLayoutUI_1_1HBargraph.html" title=" " alt="" coords="404,153,561,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="363,179,403,173,404,179,363,184"/>
+<area shape="rect" id="Node000009" href="$structLayoutUI_1_1HSlider.html" title=" " alt="" coords="415,203,550,228"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="364,198,415,205,415,210,363,204"/>
+<area shape="rect" id="Node000010" href="$structLayoutUI_1_1NumEntry.html" title=" " alt="" coords="406,252,559,277"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="325,207,398,238,433,249,432,254,396,243,323,212"/>
+<area shape="rect" id="Node000011" href="$structLayoutUI_1_1VBargraph.html" title=" " alt="" coords="405,301,561,327"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="307,212,347,251,399,288,425,299,423,304,396,292,344,255,303,216"/>
+<area shape="rect" id="Node000012" href="$structLayoutUI_1_1VSlider.html" title=" " alt="" coords="415,351,550,376"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="299,215,338,277,366,309,399,337,420,348,418,353,396,342,363,313,334,280,295,218"/>
+<area shape="rect" id="Node000002" href="$structLayoutUI_1_1BaseUIItem.html" title=" " alt="" coords="5,179,169,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,189,217,189,217,194,183,194"/>
+<area shape="rect" id="Node000006" href="$structLayoutUI_1_1HGroup.html" title=" " alt="" coords="616,80,753,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="560,105,616,98,616,103,561,110"/>
+<area shape="rect" id="Node000007" href="$structLayoutUI_1_1VGroup.html" title=" " alt="" coords="617,129,753,155"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="560,124,617,131,616,136,560,129"/>
+</map>

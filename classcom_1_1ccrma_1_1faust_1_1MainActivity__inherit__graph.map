@@ -1,0 +1,8 @@
+<map id="com.ccrma.faust.MainActivity" name="com.ccrma.faust.MainActivity">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,223,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,13,188,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,52,110,93,105,93,103,52"/>
+<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="125,52,123,93,118,93,120,52"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="213,5,415,45"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,53,145,96,143,91,253,48"/>
+</map>

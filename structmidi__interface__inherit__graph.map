@@ -1,0 +1,33 @@
+<map id="midi_interface" name="midi_interface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,204,121,229"/>
+<area shape="rect" id="Node000002" href="$classMidiUI.html" title=" " alt="" coords="191,179,255,204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,203,190,194,191,199,135,208"/>
+<area shape="rect" id="Node000003" href="$classmidi__handler.html" title=" " alt="" coords="169,228,276,253"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,225,170,230,169,235,135,230"/>
+<area shape="rect" id="Node000004" href="$classbela__midi.html" title=" " alt="" coords="358,5,445,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,218,274,214,288,191,295,170,296,127,298,84,306,62,322,40,338,28,357,21,359,26,341,33,326,44,310,65,303,85,301,127,300,171,293,194,278,217,274,222"/>
+<area shape="rect" id="Node000005" href="$classdaisy__midi.html" title=" " alt="" coords="355,55,448,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="269,218,274,214,285,198,292,183,296,152,301,121,309,105,322,89,337,79,354,72,356,77,340,84,326,93,313,108,306,122,301,153,297,184,290,200,278,217,273,222"/>
+<area shape="rect" id="Node000006" href="$classesp32__midi.html" title=" " alt="" coords="353,104,450,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="267,219,274,213,289,195,297,176,305,157,322,139,351,124,354,128,326,143,310,160,302,178,294,197,278,217,270,223"/>
+<area shape="rect" id="Node000007" href="$classgramophone__midi.html" title=" " alt="" coords="331,153,471,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="262,220,275,213,323,188,354,176,356,181,325,192,277,218,264,224"/>
+<area shape="rect" id="Node000008" href="$structiplug2__midi__handler.html" title=" " alt="" coords="324,203,479,228"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="289,229,323,224,324,229,290,234"/>
+<area shape="rect" id="Node000009" href="$classjack__midi.html" title=" " alt="" coords="359,252,444,277"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="290,247,359,256,358,262,289,252"/>
+<area shape="rect" id="Node000012" href="$classjuce__midi__handler.html" title=" " alt="" coords="331,301,472,327"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="262,257,325,286,360,299,358,304,323,291,259,262"/>
+<area shape="rect" id="Node000014" href="$structmax__midi.html" title=" " alt="" coords="358,351,445,376"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="245,263,280,300,325,336,359,351,357,355,323,340,276,304,241,266"/>
+<area shape="rect" id="Node000015" href="$classrt__midi.html" title=" " alt="" coords="367,400,435,425"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="237,265,271,325,296,358,326,385,346,397,368,404,366,409,344,402,322,389,292,361,267,328,233,267"/>
+<area shape="rect" id="Node000016" href="$classteensy__midi.html" title=" " alt="" coords="350,449,453,475"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="233,266,244,304,263,349,290,396,326,436,351,450,348,455,322,440,286,399,258,352,239,305,228,267"/>
+<area shape="rect" id="Node000010" href="$classjackaudio__midi.html" title=" " alt="" coords="560,203,680,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="457,250,562,225,563,231,458,255"/>
+<area shape="rect" id="Node000011" href="$classnetjackaudio__midicontrol.html" title=" " alt="" coords="527,252,713,277"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="458,262,527,262,527,267,458,267"/>
+<area shape="rect" id="Node000013" href="$classjuce__midi.html" title=" " alt="" coords="577,301,663,327"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="486,311,577,311,577,317,486,317"/>
+</map>

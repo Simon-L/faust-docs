@@ -1,0 +1,32 @@
+<map id="uiCheckButton" name="uiCheckButton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,495,375,520"/>
+<area shape="rect" id="Node000002" href="$classuiItem.html" title=" " alt="" coords="285,345,349,371"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,384,293,411,293,442,296,471,304,494,299,495,291,472,287,442,288,411,293,383"/>
+<area shape="poly" id="edge15_Node000001_Node000002" title=" " alt="" coords="312,384,310,443,314,494,309,495,305,443,307,384"/>
+<area shape="poly" id="edge16_Node000001_Node000002" title=" " alt="" coords="326,384,328,443,324,495,319,494,323,443,321,384"/>
+<area shape="poly" id="edge17_Node000001_Node000002" title=" " alt="" coords="340,383,345,411,346,442,343,472,335,495,329,494,337,471,341,442,340,411,335,384"/>
+<area shape="rect" id="Node000009" href="$classuiComponent.html" title="Intern class for all FAUST active or passive widgets." alt="" coords="134,420,243,445"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="285,380,210,422,208,417,283,375"/>
+<area shape="rect" id="Node000003" href="$classuiTypedItemReal.html" title=" " alt="" coords="85,271,327,296"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,302,300,343,297,347,234,306"/>
+<area shape="rect" id="Node000004" href="$structuiItemBase.html" title=" " alt="" coords="158,183,254,208"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,222,209,270,203,270,203,222"/>
+<area shape="rect" id="Node000005" href="$classGUI.html" title=" " alt="" coords="280,183,327,208"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="282,219,221,272,218,268,278,215"/>
+<area shape="rect" id="Node000006" href="$structUI.html" title=" " alt="" coords="315,108,353,133"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="341,147,347,215,346,256,342,297,334,323,325,346,320,344,329,322,337,295,341,255,341,215,335,147"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="326,147,311,183,306,181,321,145"/>
+<area shape="rect" id="Node000007" href="$structUIReal.html" title=" " alt="" coords="163,5,340,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="271,39,327,106,323,110,267,43"/>
+<area shape="rect" id="Node000008" href="$classUiControlSet.html" title=" " alt="" coords="365,5,469,31"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="401,43,345,110,341,106,397,39"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="223,450,297,492,295,497,220,455"/>
+<area shape="rect" id="Node000010" href="$classuiBase.html" title="Intern class for all FAUST widgets." alt="" coords="162,345,229,371"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="196,385,192,420,187,419,190,384"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="5,345,137,371"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="103,376,171,418,168,422,101,380"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="390,420,550,445"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="434,454,342,497,340,492,432,449"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="574,420,649,445"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="561,449,364,497,363,492,560,444"/>
+</map>

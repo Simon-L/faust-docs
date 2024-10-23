@@ -1,0 +1,6 @@
+<map id="UnityAudioEffectState" name="UnityAudioEffectState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,5,206,31"/>
+<area shape="rect" id="Node000002" href="$structUnityAudioSpatializerData.html" title=" " alt="" coords="26,93,221,119"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="32,39,13,56,8,68,13,77,25,84,43,91,42,96,23,89,9,80,3,68,8,53,29,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,86,203,72,206,65,203,56,190,43,173,33,175,28,193,38,207,53,211,65,207,75,187,90"/>
+</map>

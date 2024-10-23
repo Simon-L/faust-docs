@@ -1,0 +1,31 @@
+<map id="uiKnob" name="uiKnob">
+<area shape="rect" id="Node000001" title=" " alt="" coords="311,521,377,547"/>
+<area shape="rect" id="Node000002" href="$classuiCocoaItem.html" title=" " alt="" coords="201,433,305,459"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,466,333,519,330,523,274,470"/>
+<area shape="poly" id="edge10_Node000002_Node000002" title=" " alt="" coords="320,437,332,446,324,454,306,457,305,451,321,449,327,446,318,442"/>
+<area shape="rect" id="Node000003" href="$classuiItem.html" title=" " alt="" coords="221,345,285,371"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,385,256,433,251,433,251,385"/>
+<area shape="rect" id="Node000004" href="$classuiTypedItemReal.html" title=" " alt="" coords="5,271,248,296"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="160,301,234,343,232,347,158,305"/>
+<area shape="rect" id="Node000005" href="$structuiItemBase.html" title=" " alt="" coords="79,183,175,208"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="129,222,129,270,124,270,124,222"/>
+<area shape="rect" id="Node000006" href="$classGUI.html" title=" " alt="" coords="201,183,247,208"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="202,219,142,272,138,268,199,215"/>
+<area shape="rect" id="Node000007" href="$structUI.html" title=" " alt="" coords="235,108,274,133"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="260,147,261,157,265,227,263,296,258,345,252,345,257,296,259,227,256,158,255,147"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="247,147,231,183,227,181,242,145"/>
+<area shape="rect" id="Node000008" href="$structUIReal.html" title=" " alt="" coords="83,5,261,31"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="192,39,247,106,243,110,188,43"/>
+<area shape="rect" id="Node000009" href="$classUiControlSet.html" title=" " alt="" coords="285,5,389,31"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="321,43,266,110,262,106,317,39"/>
+<area shape="rect" id="Node000010" href="$interfaceFIKnob.html" title=" " alt="" coords="404,433,471,459"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="416,470,359,523,355,519,413,466"/>
+<area shape="rect" id="Node000011" href="$interfaceFIResponder.html" title=" " alt="" coords="439,345,542,371"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="478,384,447,434,442,431,474,381"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="449,271,532,296"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="493,310,493,345,488,345,488,310"/>
+<area shape="rect" id="Node000013" href="$interfaceFIHint.html" title=" " alt="" coords="353,345,415,371"/>
+<area shape="poly" id="edge14_Node000010_Node000013" title=" " alt="" coords="401,381,432,431,428,434,396,384"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="350,271,418,296"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="387,310,387,345,381,345,381,310"/>
+</map>

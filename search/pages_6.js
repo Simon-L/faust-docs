@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['faust_0',['Differentiable DSP in Faust',['../md_architecture_2autodiff_2README.html',1,'']]],
+  ['faust_20android_20api_1',['Faust Android API',['../md_architecture_2api_2doc_2Android.html',1,'']]],
+  ['faust_20api_2',['Faust API',['../md_architecture_2api_2doc_2Generic.html',1,'']]],
+  ['faust_20dsp_20on_20the_20web_3',['Deploying Faust DSP on the Web',['../md_architecture_2webaudio_2README.html',1,'']]],
+  ['faust_20ios_20api_4',['Faust iOS API',['../md_architecture_2api_2doc_2iOS.html',1,'']]],
+  ['faust_20osc_20library_5',['FAUST OSC Library',['../md_architecture_2osclib_2README.html',1,'']]],
+  ['faust2android_20tt_20documentation_6',['&lt;tt&gt;faust2android&lt;/tt&gt; Documentation',['../md_architecture_2android_2README.html',1,'']]],
+  ['faust2api_20tt_20_3a_20android_20support_7',['&lt;tt&gt;faust2api&lt;/tt&gt;: Android Support',['../md_architecture_2api_2android_2README.html',1,'']]],
+  ['faust2api_20tt_20documentation_8',['&lt;tt&gt;faust2api&lt;/tt&gt; Documentation',['../md_architecture_2api_2README.html',1,'']]],
+  ['faust2audiokit_20work_20in_20progress_9',['faust2audiokit [Work In Progress]',['../md_architecture_2audiokit_2README.html',1,'']]],
+  ['faust2cmajor_10',['faust2cmajor',['../md_architecture_2cmajor_2README.html',1,'']]],
+  ['faust2daisy_11',['faust2daisy',['../md_architecture_2daisy_2README.html',1,'']]],
+  ['faust2juce_12',['faust2juce',['../md_architecture_2juce_2README.html',1,'']]],
+  ['faust2max6_20faust2msp_13',['faust2max6/faust2msp',['../md_architecture_2max-msp_2README.html',1,'']]],
+  ['faust2msp_14',['faust2max6/faust2msp',['../md_architecture_2max-msp_2README.html',1,'']]],
+  ['faust2nodejs_15',['faust2nodejs',['../md_architecture_2nodejs_2README.html',1,'']]],
+  ['faust2smartkeyb_20license_20and_20copyright_16',['faust2smartkeyb License and Copyright',['../md_architecture_2smartKeyboard_2LICENCE.html',1,'']]],
+  ['faust2svgplot_17',['faust2svgplot',['../md_architecture_2svgplot_2README.html',1,'']]],
+  ['faust2teensy_18',['faust2teensy',['../md_architecture_2teensy_2README.html',1,'']]],
+  ['faust2unity_19',['faust2unity',['../md_architecture_2unity_2README.html',1,'']]],
+  ['faust2vcvrack_20',['faust2vcvrack',['../md_architecture_2vcvrack_2README.html',1,'']]],
+  ['files_21',['files',['../md_architecture_2julia_2README.html',1,'Julia architecture files'],['../md_architecture_2rust_2README.html',1,'Rust architecture files']]]
+];

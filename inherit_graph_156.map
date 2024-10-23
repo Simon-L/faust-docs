@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classhttpdfaust_1_1MessageProcessor.html" title="an abstract class for objects able to process OSC messages" alt="" coords="5,55,224,80"/>
+<area shape="rect" id="Node000001" href="$classhttpdfaust_1_1MessageDriven.html" title="a base class for objects accepting messages" alt="" coords="272,55,471,80"/>
+<area shape="poly" id="edge474_Node000000_Node000001" title=" " alt="" coords="237,65,272,65,272,70,237,70"/>
+<area shape="rect" id="Node000002" href="$classhttpdfaust_1_1FaustNode.html" title="a faust node is a terminal node and represents a faust parameter controler" alt="" coords="521,5,725,31"/>
+<area shape="poly" id="edge475_Node000001_Node000002" title=" " alt="" coords="450,49,557,28,558,33,451,55"/>
+<area shape="rect" id="Node000003" href="$classhttpdfaust_1_1RootNode.html" title="a faust program root node" alt="" coords="542,55,703,80"/>
+<area shape="poly" id="edge476_Node000001_Node000003" title=" " alt="" coords="485,65,542,65,542,70,485,70"/>
+<area shape="rect" id="Node000004" href="$classhttpdfaust_1_1smartable.html" title="the base class for smart pointers implementation" alt="" coords="33,128,196,153"/>
+<area shape="poly" id="edge477_Node000004_Node000001" title=" " alt="" coords="166,121,271,89,315,77,316,83,273,94,168,126"/>
+<area shape="rect" id="Node000005" href="$classhttpdfaust_1_1baseparam.html" title="base class of a message parameters" alt="" coords="286,104,457,129"/>
+<area shape="poly" id="edge478_Node000004_Node000005" title=" " alt="" coords="209,129,286,122,286,127,210,135"/>
+<area shape="rect" id="Node000007" href="$classhttpdfaust_1_1jsonnode.html" title="a faust node is a terminal node and represents a faust parameter controler" alt="" coords="293,153,449,179"/>
+<area shape="poly" id="edge480_Node000004_Node000007" title=" " alt="" coords="210,147,293,156,293,161,209,153"/>
+<area shape="rect" id="Node000010" href="$classhttpdfaust_1_1jsonroot.html" title="a faust root is a terminal node and represents a faust parameter controler" alt="" coords="296,203,447,228"/>
+<area shape="poly" id="edge483_Node000004_Node000010" title=" " alt="" coords="168,155,273,187,319,200,318,205,271,193,166,160"/>
+<area shape="rect" id="Node000006" href="$classhttpdfaust_1_1MsgParam.html" title="template for a message parameter" alt="" coords="521,104,724,129"/>
+<area shape="poly" id="edge479_Node000005_Node000006" title=" " alt="" coords="471,114,521,114,521,119,471,119"/>
+<area shape="rect" id="Node000008" href="$classhttpdfaust_1_1jsoncontrol.html" title="a faust control is a terminal node and represents a faust parameter controler" alt="" coords="519,153,727,179"/>
+<area shape="poly" id="edge481_Node000007_Node000008" title=" " alt="" coords="463,163,519,163,519,169,463,169"/>
+<area shape="rect" id="Node000009" href="$classhttpdfaust_1_1jsongroup.html" title="a faust group is a terminal node and represents a faust parameter controler" alt="" coords="542,203,703,228"/>
+<area shape="poly" id="edge482_Node000007_Node000009" title=" " alt="" coords="451,179,558,200,557,205,450,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="UIGlueTemplate" name="UIGlueTemplate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,240,137,265"/>
+<area shape="rect" id="Node000002" href="$structUIInterface.html" title=" " alt="" coords="5,152,100,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,190,74,239,68,240,56,191"/>
+<area shape="rect" id="Node000003" href="$structUIGlue.html" title=" " alt="" coords="125,152,191,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,189,88,241,84,238,135,185"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="43,5,89,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="62,44,58,85,61,107,69,126,91,140,125,152,124,157,89,145,65,130,56,109,52,86,56,43"/>
+<area shape="rect" id="Node000005" href="$structSoundfile.html" title=" " alt="" coords="210,5,293,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="253,45,245,87,237,109,224,130,209,144,192,154,189,149,206,140,220,126,232,107,240,85,247,44"/>
+</map>

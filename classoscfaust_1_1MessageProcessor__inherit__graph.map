@@ -1,0 +1,9 @@
+<map id="oscfaust::MessageProcessor" name="oscfaust::MessageProcessor">
+<area shape="rect" id="Node000001" title="an abstract class for objects able to process OSC messages" alt="" coords="95,5,302,31"/>
+<area shape="rect" id="Node000002" href="$classoscfaust_1_1MessageDriven.html" title="a base class for objects accepting OSC messages" alt="" coords="105,79,292,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,201,79,196,79,196,44"/>
+<area shape="rect" id="Node000003" href="$classoscfaust_1_1FaustNode.html" title="a faust node is a terminal node and represents a faust parameter controler" alt="" coords="5,152,197,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,114,119,154,116,150,170,110"/>
+<area shape="rect" id="Node000004" href="$classoscfaust_1_1RootNode.html" title="a faust root node" alt="" coords="221,152,371,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,110,282,150,279,154,224,114"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classMidiApi.html" title=" " alt="" coords="5,31,76,56"/>
+<area shape="rect" id="Node000001" href="$classMidiInApi.html" title=" " alt="" coords="130,5,213,31"/>
+<area shape="poly" id="edge503_Node000000_Node000001" title=" " alt="" coords="89,31,129,23,130,29,90,37"/>
+<area shape="rect" id="Node000003" href="$classMidiOutApi.html" title=" " alt="" coords="124,55,219,80"/>
+<area shape="poly" id="edge505_Node000000_Node000003" title=" " alt="" coords="90,50,124,56,123,61,89,55"/>
+<area shape="rect" id="Node000002" href="$classMidiInDummy.html" title=" " alt="" coords="272,5,387,31"/>
+<area shape="poly" id="edge504_Node000001_Node000002" title=" " alt="" coords="226,15,272,15,272,21,226,21"/>
+<area shape="rect" id="Node000004" href="$classMidiOutDummy.html" title=" " alt="" coords="267,55,392,80"/>
+<area shape="poly" id="edge506_Node000003_Node000004" title=" " alt="" coords="232,65,266,65,266,70,232,70"/>
+</map>

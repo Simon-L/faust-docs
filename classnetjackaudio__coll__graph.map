@@ -1,0 +1,8 @@
+<map id="netjackaudio" name="netjackaudio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,97,117,123"/>
+<area shape="rect" id="Node000002" href="$classaudio.html" title=" " alt="" coords="5,7,64,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,45,63,96,58,98,40,46"/>
+<area shape="rect" id="Node000003" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="88,7,133,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,46,73,98,68,96,96,44"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="148,10,156,13,160,20,151,30,134,31,134,25,149,25,155,20,153,17,146,15"/>
+</map>
