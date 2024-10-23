@@ -1,7 +1,0 @@
-<map id="signalsmith::plot::SvgWriter::Tag" name="signalsmith::plot::SvgWriter::Tag">
-<area shape="rect" id="Node000001" title="XML tag helper, closing the tag when it&#39;s destroyed." alt="" coords="5,225,144,265"/>
-<area shape="rect" id="Node000002" href="$classsignalsmith_1_1plot_1_1SvgWriter.html" title="Wrapper for slightly more semantic code when writing SVGs." alt="" coords="5,123,144,163"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,177,77,225,72,225,72,177"/>
-<area shape="rect" id="Node000003" href="$structsignalsmith_1_1plot_1_1Point2D.html" title=" " alt="" coords="5,5,144,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,59,77,122,72,122,72,59"/>
-</map>

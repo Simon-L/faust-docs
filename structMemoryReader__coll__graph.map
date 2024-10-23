@@ -1,9 +1,0 @@
-<map id="MemoryReader" name="MemoryReader">
-<area shape="rect" id="Node000001" title=" " alt="" coords="24,168,147,193"/>
-<area shape="rect" id="Node000002" href="$classSoundfileReader.html" title=" " alt="" coords="5,93,133,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,132,85,167,80,168,72,133"/>
-<area shape="rect" id="Node000003" href="$structReader.html" title=" " alt="" coords="158,93,226,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,129,104,170,101,166,162,124"/>
-<area shape="rect" id="Node000004" href="$structwave__t.html" title=" " alt="" coords="157,5,227,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,45,195,93,189,93,189,45"/>
-</map>

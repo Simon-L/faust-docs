@@ -1,6 +1,0 @@
-<map id="interpreter_dsp_factory" name="interpreter_dsp_factory">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,180,104"/>
-<area shape="rect" id="Node000002" href="$classdsp__factory.html" title=" " alt="" coords="43,5,142,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,88,78,83,79,81,45"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="104,45,102,79,97,78,99,44"/>
-</map>

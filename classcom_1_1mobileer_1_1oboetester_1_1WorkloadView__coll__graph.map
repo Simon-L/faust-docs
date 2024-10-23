@@ -1,8 +1,0 @@
-<map id="com.mobileer.oboetester.WorkloadView" name="com.mobileer.oboetester.WorkloadView">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,193,148"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="46,13,153,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,52,95,108,89,108,89,52"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="110,52,109,108,104,108,105,52"/>
-<area shape="rect" id="Node000003" href="$classcom_1_1mobileer_1_1oboetester_1_1ExponentialTaper.html" title=" " alt="" coords="177,5,365,45"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="229,55,133,110,130,106,226,50"/>
-</map>

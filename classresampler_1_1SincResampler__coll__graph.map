@@ -1,6 +1,0 @@
-<map id="resampler::SincResampler" name="resampler::SincResampler">
-<area shape="rect" id="Node000001" title=" " alt="" coords="35,79,228,104"/>
-<area shape="rect" id="Node000002" href="$classresampler_1_1MultiChannelResampler.html" title=" " alt="" coords="5,5,257,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,44,127,78,122,79,120,45"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="143,45,141,79,136,78,137,44"/>
-</map>

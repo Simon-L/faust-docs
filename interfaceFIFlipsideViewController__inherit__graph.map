@@ -1,7 +1,0 @@
-<map id="FIFlipsideViewController" name="FIFlipsideViewController">
-<area shape="rect" id="Node000001" title=" " alt="" coords="70,79,251,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,137,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,37,148,76,144,81,95,41"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="161,5,341,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,41,177,81,174,76,224,37"/>
-</map>

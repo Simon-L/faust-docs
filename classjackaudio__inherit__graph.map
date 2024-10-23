@@ -1,7 +1,0 @@
-<map id="jackaudio" name="jackaudio">
-<area shape="rect" id="Node000001" title=" " alt="" coords="23,79,107,104"/>
-<area shape="rect" id="Node000003" href="$classjackaudio__midi.html" title=" " alt="" coords="5,152,125,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="68,118,68,152,63,152,63,118"/>
-<area shape="rect" id="Node000002" href="$classaudio.html" title=" " alt="" coords="36,5,95,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,44,68,79,63,79,63,44"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="FaustComponent" name="FaustComponent">
-<area shape="rect" id="Node000001" title=" " alt="" coords="121,79,252,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,200,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,38,175,76,171,80,125,42"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="225,5,319,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,41,202,80,199,76,246,37"/>
-</map>

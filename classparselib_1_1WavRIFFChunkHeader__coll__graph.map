@@ -1,6 +1,0 @@
-<map id="parselib::WavRIFFChunkHeader" name="parselib::WavRIFFChunkHeader">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,232,104"/>
-<area shape="rect" id="Node000002" href="$classparselib_1_1WavChunkHeader.html" title=" " alt="" coords="19,5,218,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,44,114,78,109,79,107,45"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="130,45,128,79,123,78,125,44"/>
-</map>

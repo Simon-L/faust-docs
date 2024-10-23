@@ -1,7 +1,0 @@
-<map id="com.faust.MultiKeyboardActivity" name="com.faust.MultiKeyboardActivity">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,240,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,81,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,39,114,91,110,95,63,43"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="106,5,297,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,43,136,95,132,91,180,39"/>
-</map>

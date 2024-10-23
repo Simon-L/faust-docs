@@ -1,9 +1,0 @@
-<map id="com.faust.FaustActivity" name="com.faust.FaustActivity">
-<area shape="rect" id="Node000001" title=" " alt="" coords="113,108,287,133"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,13,77,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,43,182,106,179,110,71,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="101,5,299,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,59,203,108,197,108,197,59"/>
-<area shape="rect" id="Node000004" href="$classDspFaust.html" title=" " alt="" coords="323,13,405,38"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="333,47,222,110,219,106,331,42"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="FaustPlugInAudioProcessor" name="FaustPlugInAudioProcessor">
-<area shape="rect" id="Node000001" title=" " alt="" coords="61,79,257,104"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,163,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,38,148,77,145,80,104,42"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="187,5,282,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,42,173,80,169,76,211,38"/>
-</map>

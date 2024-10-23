@@ -1,7 +1,0 @@
-<map id="BelaWidgetCheckBox" name="BelaWidgetCheckBox">
-<area shape="rect" id="Node000001" title=" " alt="" coords="39,93,202,119"/>
-<area shape="rect" id="Node000002" href="$classBelaWidget.html" title=" " alt="" coords="5,5,103,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,40,113,91,109,94,69,43"/>
-<area shape="rect" id="Node000003" href="$classCheckBoxLogic.html" title=" " alt="" coords="127,5,248,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,43,132,94,128,91,168,40"/>
-</map>

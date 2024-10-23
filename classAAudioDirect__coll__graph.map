@@ -1,8 +1,0 @@
-<map id="AAudioDirect" name="AAudioDirect">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,112,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="8,5,109,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,44,55,93,50,93,48,44"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="70,44,68,93,62,93,64,44"/>
-<area shape="rect" id="Node000003" href="$classoboe_1_1AAudioLoader.html" title=" " alt="" coords="133,5,285,31"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="179,40,80,95,78,91,176,35"/>
-</map>

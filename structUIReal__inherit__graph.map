@@ -1,9 +1,0 @@
-<map id="UIReal&lt; REAL &gt;" name="UIReal&lt; REAL &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="150,5,278,31"/>
-<area shape="rect" id="Node000002" href="$classJSONUIReal.html" title=" " alt="" coords="5,79,215,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,41,129,81,126,76,184,36"/>
-<area shape="rect" id="Node000004" href="$classJSONUIReal.html" title=" " alt="" coords="239,79,399,104"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,36,304,76,301,81,241,41"/>
-<area shape="rect" id="Node000003" href="$structJSONUI.html" title=" " alt="" coords="76,152,144,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,118,113,152,107,152,107,118"/>
-</map>

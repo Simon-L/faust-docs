@@ -1,7 +1,0 @@
-<map id="WaveReader" name="WaveReader">
-<area shape="rect" id="Node000001" title=" " alt="" coords="17,79,121,104"/>
-<area shape="rect" id="Node000003" href="$structEsp32Reader.html" title=" " alt="" coords="16,152,123,177"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="72,118,72,152,67,152,67,118"/>
-<area shape="rect" id="Node000002" href="$classSoundfileReader.html" title=" " alt="" coords="5,5,133,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,44,72,79,67,79,67,44"/>
-</map>

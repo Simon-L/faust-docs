@@ -1,9 +1,0 @@
-<map id="sr_sampler&lt; FILTER &gt;" name="sr_sampler&lt; FILTER &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,172,197"/>
-<area shape="rect" id="Node000002" href="$classdecorator__dsp.html" title=" " alt="" coords="31,97,146,123"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,137,91,172,86,172,86,137"/>
-<area shape="rect" id="Node000003" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="66,7,111,33"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,47,89,73,90,97,85,97,83,73,84,47"/>
-<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="91,46,91,97,86,97,86,46"/>
-<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="126,10,134,13,138,20,129,30,112,31,112,25,127,25,133,20,131,17,124,15"/>
-</map>

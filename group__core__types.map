@@ -1,5 +1,0 @@
-<map id="Types" name="Types">
-<area shape="rect" id="Node000002" href="$group__core.html" title="The core of GLM, which implements exactly and only the GLSL specification to the degree possible." alt="" coords="5,5,91,31"/>
-<area shape="rect" id="Node000001" title="The standard types defined by the specification." alt="" coords="139,5,197,31"/>
-<area shape="rect" id="Node000003" href="$group__core__precision.html" title="Non&#45;GLSL types that are used to define precision&#45;based types." alt="" coords="245,5,367,31"/>
-</map>

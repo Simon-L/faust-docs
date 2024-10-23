@@ -1,9 +1,0 @@
-<map id="VSTQtGUI" name="VSTQtGUI">
-<area shape="rect" id="Node000001" title=" " alt="" coords="105,93,191,119"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,80,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,37,135,91,132,95,66,41"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="105,5,191,31"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,45,151,93,145,93,145,45"/>
-<area shape="rect" id="Node000004" href="$structERect.html" title=" " alt="" coords="216,5,275,31"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,42,163,95,160,91,220,38"/>
-</map>

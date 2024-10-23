@@ -1,9 +1,0 @@
-<map id="CBackrefElxT&lt; CHART &gt;" name="CBackrefElxT&lt; CHART &gt;">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,188,193"/>
-<area shape="rect" id="Node000002" href="$classElxInterface.html" title=" " alt="" coords="25,80,125,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,118,96,167,91,168,79,119"/>
-<area shape="rect" id="Node000003" href="$classCBufferT.html" title=" " alt="" coords="150,80,302,105"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,115,116,170,113,166,196,111"/>
-<area shape="rect" id="Node000004" href="$classCBufferRefT.html" title=" " alt="" coords="150,5,302,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,45,229,80,223,80,223,45"/>
-</map>

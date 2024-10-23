@@ -1,9 +1,0 @@
-<map id="tests.test_layout_hola3.HolaPatcher" name="tests.test_layout_hola3.HolaPatcher">
-<area shape="rect" id="Node000001" title=" " alt="" coords="89,183,268,223"/>
-<area shape="rect" id="Node000002" href="$classpy2max_1_1core_1_1Patcher.html" title=" " alt="" coords="99,108,258,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,147,181,183,176,183,176,147"/>
-<area shape="rect" id="Node000003" href="$classpy2max_1_1core_1_1Patchline.html" title=" " alt="" coords="5,5,176,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,39,171,106,167,110,108,43"/>
-<area shape="rect" id="Node000004" href="$classpy2max_1_1core_1_1Box.html" title=" " alt="" coords="200,5,336,31"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="251,43,191,110,187,106,247,39"/>
-</map>

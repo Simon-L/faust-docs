@@ -1,9 +1,0 @@
-<map id="resampler::PolyphaseResamplerMono" name="resampler::PolyphaseResamplerMono">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,152,275,177"/>
-<area shape="rect" id="Node000002" href="$classresampler_1_1PolyphaseResampler.html" title=" " alt="" coords="23,79,257,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,118,136,152,130,152,129,118"/>
-<area shape="poly" id="edge4_Node000001_Node000002" title=" " alt="" coords="151,118,150,152,144,152,146,118"/>
-<area shape="rect" id="Node000003" href="$classresampler_1_1MultiChannelResampler.html" title=" " alt="" coords="14,5,266,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,44,136,78,130,79,129,45"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="151,45,150,79,144,78,146,44"/>
-</map>

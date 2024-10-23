@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,77,112,102"/>
-<area shape="rect" id="Node000001" href="$classcom_1_1mobileer_1_1miditools_1_1MidiDispatcher.html" title=" " alt="" coords="166,5,374,45"/>
-<area shape="poly" id="edge660_Node000000_Node000001" title=" " alt="" coords="111,70,159,55,199,43,200,48,161,60,113,75"/>
-<area shape="rect" id="Node000002" href="$classcom_1_1mobileer_1_1miditools_1_1MidiFramer.html" title=" " alt="" coords="166,69,374,109"/>
-<area shape="poly" id="edge661_Node000000_Node000002" title=" " alt="" coords="126,87,166,87,166,92,126,92"/>
-<area shape="rect" id="Node000003" href="$classcom_1_1mobileer_1_1miditools_1_1synth_1_1SynthEngine.html" title=" " alt="" coords="160,133,380,173"/>
-<area shape="poly" id="edge662_Node000000_Node000003" title=" " alt="" coords="113,104,161,119,200,131,199,136,159,124,111,109"/>
-</map>

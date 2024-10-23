@@ -1,7 +1,0 @@
-<map id="interpreter_dsp" name="interpreter_dsp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,127,109"/>
-<area shape="rect" id="Node000002" href="$classdsp.html" title="Opaque structure representing a DSP object." alt="" coords="43,7,89,33"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,46,62,83,57,84,55,46"/>
-<area shape="poly" id="edge3_Node000001_Node000002" title=" " alt="" coords="77,46,75,84,70,83,72,46"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="103,11,111,14,115,20,106,28,89,29,89,24,105,23,110,20,108,18,102,16"/>
-</map>

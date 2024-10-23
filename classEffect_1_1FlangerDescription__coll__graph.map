@@ -1,6 +1,0 @@
-<map id="Effect::FlangerDescription" name="Effect::FlangerDescription">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,196,119"/>
-<area shape="rect" id="Node000002" href="$classEffect_1_1EffectDescription.html" title=" " alt="" coords="5,5,196,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,59,97,93,91,93,89,59"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="112,59,110,93,105,93,107,59"/>
-</map>
